@@ -1,0 +1,4 @@
+| Title     | URL                                    | Last Updated              | Podcast   |   Item Count |   Content Length |   The mean number of items per day | Detected feed type version   |
+|:----------|:---------------------------------------|:--------------------------|:----------|-------------:|-----------------:|-----------------------------------:|:-----------------------------|
+| BBC News  | https://feeds.bbci.co.uk/news/rss.xml  | 2023-10-17T15:01:41+00:00 | False     |           94 |            52924 |                              0.459 | rss20                        |
+| The Verge | https://www.theverge.com/rss/index.xml | 2023-10-17T15:00:00+00:00 | False     |           10 |            23496 |                             96.583 | atom10                       |
