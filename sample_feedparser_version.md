@@ -1,0 +1,4 @@
+| Title     | URL                                    | Last Updated                  |   Item Count |   Content Length (bytes) | Language   | Detected feed type version   |
+|:----------|:---------------------------------------|:------------------------------|-------------:|-------------------------:|:-----------|:-----------------------------|
+| BBC News  | https://feeds.bbci.co.uk/news/rss.xml  | Wed, 18 Oct 2023 14:48:36 GMT |           79 |                     9169 | en-gb      | rss20                        |
+| The Verge | https://www.theverge.com/rss/index.xml | 2023-10-18T10:16:16-04:00     |           10 |                     7429 | en         | atom10                       |
