@@ -31,7 +31,7 @@ OPML content:
 
 > P.S. [the above sample OPML file is provided by Google Bard](https://g.co/bard/share/f2a0db3b818e).
 
-- If using [rss_opml_to_markdown_Feedsearch_version.py](/RSS_OPML_to_Markdown/rss_opml_to_markdown_Feedsearch_version.py)
+### If using [rss_opml_to_markdown_Feedsearch_version.py](/RSS_OPML_to_Markdown/rss_opml_to_markdown_Feedsearch_version.py)
 
 [OPML](/sample_provided.opml) -> [Markdown](/sample_Feedsearch_version.md)
 
@@ -42,7 +42,7 @@ Markdown preview:
 | BBC News  | https://feeds.bbci.co.uk/news/rss.xml  | 2023-10-17T15:01:41+00:00 | False     |           94 |            52924 |                              0.459 | rss20                        |
 | The Verge | https://www.theverge.com/rss/index.xml | 2023-10-17T15:00:00+00:00 | False     |           10 |            23496 |                             96.583 | atom10                       |
 
-- If using [rss_opml_to_markdown_feedparser_version.py](/RSS_OPML_to_Markdown/rss_opml_to_markdown_feedparser_version.py)
+### If using [rss_opml_to_markdown_feedparser_version.py](/RSS_OPML_to_Markdown/rss_opml_to_markdown_feedparser_version.py)
 
 [OPML](/sample_provided.opml) -> [Markdown](/sample_feedparser_version.md)
 
