@@ -1,0 +1,13 @@
+<opml version="2.0">
+  <head>
+    <title>My Subscriptions</title>
+  </head>
+  <body>
+    <outline title="News" type="rss">
+      <outline title="BBC News" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml"/>
+    </outline>
+    <outline title="Tech" type="rss">
+      <outline title="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+    </outline>
+  </body>
+</opml>

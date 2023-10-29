@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 永 tagged as 影視圖音 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="影視圖音" title="影視圖音">
+      <outline text="500px" title="500px" type="rss" xmlUrl="https://500px.com/photos.rss" htmlUrl="https://500px.com/photos.rss"/>
+      <outline text="BD影视" title="BD影视" type="rss" xmlUrl="http://www.bd-film.co/rss.jspx" htmlUrl="http://www.bd-film.com/"/>
+      <outline text="BD影视分享" title="BD影视分享" type="rss" xmlUrl="http://www.bd-film.com/rss.jspx" htmlUrl="http://www.jeecms.com/"/>
+      <outline text="BT之家" title="BT之家" type="rss" xmlUrl="https://rsshub.app/btzj/base" htmlUrl="https://www.88btbtt.com/"/>
+      <outline text="Wallpaperhub" title="Wallpaperhub" type="rss" xmlUrl="https://rsshub.app/wallpaperhub" htmlUrl="https://wallpaperhub.app/wallpapers"/>
+      <outline text="中国高清网" title="中国高清网" type="rss" xmlUrl="http://gaoqing.la/feed" htmlUrl="http://gaoqing.la/"/>
+      <outline text="低端影视" title="低端影视" type="rss" xmlUrl="https://rsshub.app/ddrk/index" htmlUrl="https://ddrk.me/"/>
+      <outline text="国家地理" title="国家地理" type="rss" xmlUrl="https://feedx.net/rss/nationalgeocn.xml" htmlUrl="https://feedx.net/rss/nationalgeocn.xml"/>
+      <outline text="场库" title="场库" type="rss" xmlUrl="https://rsshub.app/changku" htmlUrl="https://app.vmovier.com/apiv3/index/getIndexPosts/lastid/"/>
+      <outline text="开眼精选" title="开眼精选" type="rss" xmlUrl="https://rsshub.app/kaiyan/index" htmlUrl="https://github.com/DIYgod/RSSHub"/>
+      <outline text="梨视频 " title="梨视频 " type="rss" xmlUrl="http://feed43.com/pearvideo.xml" htmlUrl="http://www.pearvideo.com/popular"/>
+      <outline text="片源网" title="片源网" type="rss" xmlUrl="https://rsshub.app/pianyuan" htmlUrl="http://pianyuan.la/"/>
+      <outline text="猫眼热映" title="猫眼热映" type="rss" xmlUrl="https://rsshub.app/maoyan/hot" htmlUrl="https://maoyan.com/films"/>
+      <outline text="电影天堂" title="电影天堂" type="rss" xmlUrl="https://rsshub.app/dytt" htmlUrl="http://www.dytt8.net/"/>
+      <outline text="电影首发站" title="电影首发站" type="rss" xmlUrl="https://rsshub.app/dysfz" htmlUrl="http://www.dysfz.vip/"/>
+      <outline text="音范丝|影音集" title="音范丝|影音集" type="rss" xmlUrl="http://www.yinfans.com/feed" htmlUrl="http://www.yinfans.com/"/>
+      <outline text="高清电台" title="高清电台" type="rss" xmlUrl="https://rsshub.app/gaoqing/latest" htmlUrl="https://gaoqing.fm/"/>
+    </outline>
+  </body>
+</opml>

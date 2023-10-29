@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 永 tagged as 閱讀新知 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="閱讀新知" title="閱讀新知">
+      <outline text="ONE · 一个" title="ONE · 一个" type="rss" xmlUrl="https://feedx.net/rss/one.xml" htmlUrl="https://feedx.net/rss/one.xml"/>
+      <outline text="丁香医生" title="丁香医生" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/DingXiangYiSheng.weixin.xml" htmlUrl="http://www.iwgc.cn/list/11"/>
+      <outline text="三联生活周刊" title="三联生活周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/lifeweek.weixin.xml" htmlUrl="http://www.iwgc.cn/list/99"/>
+      <outline text="上海书评" title="上海书评" type="rss" xmlUrl="https://feedx.net/rss/shanghaishuping.xml" htmlUrl="https://feedx.net/rss/shanghaishuping.xml"/>
+      <outline text="乐评" title="乐评" type="rss" xmlUrl="http://www.douban.com/feed/review/music" htmlUrl="http://music.douban.com/review/music_best/"/>
+      <outline text="书评" title="书评" type="rss" xmlUrl="http://book.douban.com/feed/review/book" htmlUrl="http://book.douban.com/review/book_best/"/>
+      <outline text="十点读书" title="十点读书" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/duhaoshu.weixin.xml" htmlUrl="http://chuansong.me/account/duhaoshu"/>
+      <outline text="单读" title="单读" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/dandureading.weixin.xml" htmlUrl="http://www.iwgc.cn/list/227"/>
+      <outline text="南都周刊" title="南都周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/nbweekly.weixin.xml" htmlUrl="http://www.iwgc.cn/list/180"/>
+      <outline text="壹心理" title="壹心理" type="rss" xmlUrl="http://feed.xinli001.com/" htmlUrl="http://www.xinli001.com/"/>
+      <outline text="左岸读书" title="左岸读书" type="rss" xmlUrl="http://www.zreading.cn/feed" htmlUrl="http://www.zreading.cn/"/>
+      <outline text="影评" title="影评" type="rss" xmlUrl="http://movie.douban.com/feed/review/movie" htmlUrl="http://movie.douban.com/review/movie_best/"/>
+      <outline text="新世相" title="新世相" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/thefair2.weixin.xml" htmlUrl="http://www.iwgc.cn/list/1120"/>
+      <outline text="新京报书评周刊" title="新京报书评周刊" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ibookreview.weixin.xml" htmlUrl="http://yiding.9.cn/ac/3558"/>
+      <outline text="每日一文" title="每日一文" type="rss" xmlUrl="http://feed43.com/mryw.xml" htmlUrl="http://meiriyiwen.com/"/>
+      <outline text="界面" title="界面" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wowjiemian.weixin.xml" htmlUrl="http://chuansong.me/account/wowjiemian"/>
+      <outline text="知乎日报" title="知乎日报" type="rss" xmlUrl="http://feeds.feedburner.com/zhihu-daily" htmlUrl="http://daily.zhihu.com/"/>
+      <outline text="知乎每日精选" title="知乎每日精选" type="rss" xmlUrl="http://www.zhihu.com/rss" htmlUrl="http://www.zhihu.com/"/>
+      <outline text="知乎热榜" title="知乎热榜" type="rss" xmlUrl="https://rsshub.app/zhihu/hotlist" htmlUrl="https://www.zhihu.com/billboard"/>
+      <outline text="知道日报" title="知道日报" type="rss" xmlUrl="https://feedx.net/rss/zhidaodaily.xml" htmlUrl="https://feedx.net/rss/zhidaodaily.xml"/>
+      <outline text="简书" title="简书" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/jianshu.com.xml" htmlUrl="http://jianshu.com/"/>
+      <outline text="罗辑思维" title="罗辑思维" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/luojisw.weixin.xml" htmlUrl="http://yiding.9.cn/ac/2376"/>
+      <outline text="连岳" title="连岳" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/ilianyue.weixin.xml" htmlUrl="http://www.iwgc.cn/list/386"/>
+      <outline text="韩寒·一个" title="韩寒·一个" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/wufazhuce.com.xml" htmlUrl="http://wufazhuce.com/"/>
+    </outline>
+  </body>
+</opml>

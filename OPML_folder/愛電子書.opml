@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 永 tagged as 愛電子書 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="愛電子書" title="愛電子書">
+      <outline text="好奇心日报" title="好奇心日报" type="rss" xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzA3MzU0OTQzMw==.xml" htmlUrl="https://github.com/hellodword/wechat-feeds"/>
+      <outline text="什么值得读" title="什么值得读" type="rss" xmlUrl="http://www.shenmezhidedu.com/feed" htmlUrl="http://www.shenmezhidedu.com/"/>
+      <outline text="单读" title="单读" type="rss" xmlUrl="https://rsshub.app/owspace/read/0" htmlUrl="http://www.owspace.com/read.html"/>
+      <outline text="亚马逊免费读 " title="亚马逊免费读 " type="rss" xmlUrl="https://rsshub.app/amazon/ku/this" htmlUrl="https://www.amazon.cn/b?node=2037295071"/>
+      <outline text="SoBooks" title="SoBooks" type="rss" xmlUrl="https://rsshub.app/sobooks" htmlUrl="https://www.sobooks.cc/"/>
+      <outline text="青年文摘 " title="青年文摘 " type="rss" xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzA5ODEzMTIxOA==.xml" htmlUrl="https://github.com/hellodword/wechat-feeds"/>
+      <outline text="eBooksPlan" title="eBooksPlan" type="rss" xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzI5MDM4NTYwOA==.xml" htmlUrl="https://github.com/hellodword/wechat-feeds"/>
+      <outline text="书伴" title="书伴" type="rss" xmlUrl="https://feeds.feedburner.com/bookfere" htmlUrl="https://bookfere.com/"/>
+      <outline text="书格（公测）" title="书格（公测）" type="rss" xmlUrl="https://new.shuge.org/feed/" htmlUrl="https://new.shuge.org/"/>
+      <outline text="编程随想的博客" title="编程随想的博客" type="rss" xmlUrl="https://feeds2.feedburner.com/programthink" htmlUrl="http://program-think.blogspot.com/"/>
+      <outline text="苦瓜书盘" title="苦瓜书盘" type="rss" xmlUrl="http://kgbook.com/e/web/?type=rss2&amp;classid=0" htmlUrl="http://kgbook.com/"/>
+      <outline text="历史上的今天" title="历史上的今天" type="rss" xmlUrl="https://feedx.net/rss/wikihistory.xml" htmlUrl="https://www.wikipedia.org/"/>
+      <outline text="维基首页" title="维基首页" type="rss" xmlUrl="https://feedx.net/rss/wikiindex.xml" htmlUrl="https://www.wikipedia.org/"/>
+      <outline text="大象公会  " title="大象公会  " type="rss" xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MjM5NzQwNjcyMQ==.xml" htmlUrl="https://github.com/hellodword/wechat-feeds"/>
+      <outline text="mLook 看书" title="mLook 看书" type="rss" xmlUrl="http://www.mlook.mobi/feed/books" htmlUrl="http://www.mlook.mobi/"/>
+      <outline text="书单来了" title="书单来了" type="rss" xmlUrl="http://feedmaker.kindle4rss.com/feeds/shudanlaile.weixin.xml" htmlUrl="http://chuansong.me/account/shudanlaile"/>
+      <outline text="爱思想中国近现代史" title="爱思想中国近现代史" type="rss" xmlUrl="https://rsshub.app/aisixiang/column/722" htmlUrl="http://www.aisixiang.com/data/search.php?lanmu=722"/>
+      <outline text="读书有范" title="读书有范" type="rss" xmlUrl="https://github.com/hellodword/wechat-feeds/raw/feeds/MzI2MzM5Njc1MQ==.xml" htmlUrl="https://github.com/hellodword/wechat-feeds"/>
+    </outline>
+  </body>
+</opml>

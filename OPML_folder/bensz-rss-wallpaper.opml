@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+  <head>
+    <dateCreated>Sat, 22 Apr 2023 08:17:07 +0000</dateCreated>
+    <title>Tiny Tiny RSS Feed Export</title>
+  </head>
+  <body>
+    <outline text="壁纸" ttrssSortOrder="5">
+      <outline type="rss" text="Wallpapers" xmlUrl="https://rhrn2.hwb0307.com/wallhaven/latest?code=65a4c7633ffc075225e397714550705a" ttrssSortOrder="1" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://wallhaven.cc/latest"/>
+      <outline type="rss" text="pixiv 周排行" xmlUrl="https://rsshub.app/pixiv/ranking/week" ttrssSortOrder="2" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.pixiv.net/ranking.php?mode=weekly"/>
+      <outline type="rss" text="pixiv 日排行" xmlUrl="https://rsshub.app/pixiv/ranking/day" ttrssSortOrder="3" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.pixiv.net/ranking.php?mode=daily"/>
+      <outline type="rss" text="Bing每日壁纸" xmlUrl="https://rhrn2.hwb0307.com/bing?code=5a3e3246e1743e8d3a23a3f05fdfb544" ttrssSortOrder="4" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://cn.bing.com/"/>
+      <outline type="rss" text="DailyArt" xmlUrl="https://rhrn2.hwb0307.com/dailyart/zh?code=59437f3c173f1e2867259b72a23f0a1c" ttrssSortOrder="5" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://www.getdailyart.com/"/>
+      <outline type="rss" text="Interesting Sky" xmlUrl="https://rhrn2.hwb0307.com/interesting-sky?code=5c56ee693c9b6b2f58a88a997a47c037" ttrssSortOrder="6" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="https://interesting-sky.china-vo.org"/>
+      <outline type="rss" text="北京天文馆" xmlUrl="https://rhrn2.hwb0307.com/bjp/apod?code=5d1e9773c9bc892f7786f324d2841bb7" ttrssSortOrder="7" ttrssPurgeInterval="0" ttrssUpdateInterval="0" htmlUrl="http://www.bjp.org.cn/mryt/index.shtml"/>
+    </outline>
+  </body>
+</opml>

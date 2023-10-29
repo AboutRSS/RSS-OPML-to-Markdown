@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>subscriptions in flowerss</title>
+		<dateCreated>Sat, 02 Jan 2021 15:41:16 UTC</dateCreated>
+	</head>
+	<body>
+		<outline text="少数派编辑部 - 少数派作者" type="rss" xmlUrl="https://rss.datatube.dev/sspai/author/725653?filter=%E6%B4%BE%E6%97%A9%E6%8A%A5"></outline>
+		<outline text="小众软件" type="rss" xmlUrl="https://feeds.appinn.com/appinns/"></outline>
+		<outline text="历史上的今天" type="rss" xmlUrl="https://feedx.net/rss/wikihistory.xml"></outline>
+		<outline text="必应今日美图" type="rss" xmlUrl="https://feedx.net/rss/bingwallpaper.xml"></outline>
+		<outline text="必应今日美图国际版" type="rss" xmlUrl="https://feedx.net/rss/bingenwallpaper.xml"></outline>
+		<outline text="每日环球视野" type="rss" xmlUrl="https://feedx.net/rss/idaily.xml"></outline>
+		<outline text="国家地理每日一图" type="rss" xmlUrl="https://feedx.net/rss/nationalgeodayphoto.xml"></outline>
+		<outline text="北京天文馆每日一图" type="rss" xmlUrl="https://rsshub.app/bjp/apod"></outline>
+		<outline text="观止" type="rss" xmlUrl="https://rss.datatube.dev/guanzhi"></outline>
+		<outline text="左岸读书" type="rss" xmlUrl="https://rss.datatube.dev/zreading"></outline>
+		<outline text="電腦玩物" type="rss" xmlUrl="http://feeds.feedburner.com/playpc"></outline>
+		<outline text="折纸的白叔 的 bilibili 空间" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/user/video/2929582"></outline>
+		<outline text="iFanr - 早报：" type="rss" xmlUrl="https://rss.datatube.dev/ifanr/category-ifanrnews"></outline>
+		<outline text="野生冻物wildpudding 的 bilibili 空间" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/user/video/88773777"></outline>
+		<outline text="混乱博物馆 的 bilibili 空间" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/user/video/97177641"></outline>
+		<outline text="信誓蛋蛋 的 bilibili 空间" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/user/video/32786875"></outline>
+		<outline text="周刊娘 的 bilibili 空间" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/user/video/398300398"></outline>
+		<outline text="知乎专栏-知乎早报" type="rss" xmlUrl="https://rss.datatube.dev/zhihu/zhuanlan/c_1085975047386050560?author=zhi-hu-ri-bao-51-41"></outline>
+		<outline text="奇客的资讯，重要的东西" type="rss" xmlUrl="https://rss.datatube.dev/solidot/science"></outline>
+		<outline text="奇客的资讯，重要的东西" type="rss" xmlUrl="https://rss.datatube.dev/solidot/books"></outline>
+		<outline text="读者" type="rss" xmlUrl="https://rss.datatube.dev/ximalaya/album/5088879"></outline>
+		<outline text="36氪·8点1氪" type="rss" xmlUrl="https://rss.datatube.dev/ximalaya/album/8125936"></outline>
+		<outline text="[睡眠伴侣] 送你一颗失眠特效药 " type="rss" xmlUrl="https://rss.datatube.dev/ncm/playlist/2829733864?limit=1"></outline>
+		<outline text="[暖心下午茶] 你需要秋冬专属音乐饮品的温暖" type="rss" xmlUrl="https://rss.datatube.dev/ncm/playlist/2829827274?limit=1"></outline>
+		<outline text="每日新曲推荐（每日11:00更新）" type="rss" xmlUrl="https://rss.datatube.dev/bilibili/audio/10624?limit=1"></outline>
+		<outline text="书格" type="rss" xmlUrl="https://new.shuge.org/feed/"></outline>
+		<outline text="LiveSino 中文版 – 微软信仰中心" type="rss" xmlUrl="https://livesino.net/feed"></outline>
+		<outline text="iFanr - AppSolution：智能手机更好用的秘密" type="rss" xmlUrl="https://rss.datatube.dev/ifanr/app"></outline>
+		<outline text="异次元软件世界 " type="rss" xmlUrl="https://rss.datatube.dev/iplay/home"></outline>
+		<outline text="较真查证平台-腾讯新闻" type="rss" xmlUrl="https://rss.datatube.dev/factcheck"></outline>
+		<outline text="搜狐号 - 果壳网" type="rss" xmlUrl="https://rss.datatube.dev/sohu/mp/119097"></outline>
+		<outline text="Preparing wechat/csm/Food_Lab..." type="rss" xmlUrl="https://rss.datatube.dev/wechat/csm/Food_Lab"></outline>
+	</body>
+</opml>

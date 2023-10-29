@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>Feeds</title>
+</head>
+<body>
+<outline title="Design &amp; Inspiration" text="Design &amp; Inspiration">
+<outline type="rss" title="设计癖" htmlUrl="https://www.shejipi.com" xmlUrl="http://www.shejipi.com/feed/" text="设计癖" />
+<outline text="优设网" title="优设网" htmlUrl="https://www.uisdc.com" type="rss" xmlUrl="http://www.uisdc.com/feed" />
+<outline title="My Modern Met" text="My Modern Met" htmlUrl="https://mymodernmet.com" type="rss" xmlUrl="https://mymodernmet.com/feed" />
+<outline xmlUrl="http://www.yankodesign.com/feed/" text="Yanko Design" type="rss" title="Yanko Design" htmlUrl="https://www.yankodesign.com" />
+<outline xmlUrl="https://minimalissimo.com/feed" text="Minimalissimo" htmlUrl="https://minimalissimo.com" title="Minimalissimo" type="rss" />
+<outline htmlUrl="https://www.thisiscolossal.com" xmlUrl="http://feeds.feedburner.com/colossal" text="Colossal" title="Colossal" type="rss" />
+<outline type="rss" text="00's Adventure" title="00's Adventure" htmlUrl="/atom.xml" xmlUrl="http://www.uegeek.com/atom.xml" />
+<outline text="Ads of the World™" htmlUrl="https://www.adsoftheworld.com" xmlUrl="http://www.adsoftheworld.com/node/feed" type="rss" title="Ads of the World™" />
+<outline htmlUrl="https://www.photoshoptutorials.ws" title="Photoshop Tutorials" xmlUrl="https://www.photoshoptutorials.ws/feed/" type="rss" text="Photoshop Tutorials" />
+<outline text="Digital Photography School" title="Digital Photography School" htmlUrl="http://digital-photography-school.com/blog/wp-content/uploads/2006/12/images/digital-photography-school-1.jpg" type="rss" xmlUrl="http://feeds.feedburner.com/DigitalPhotographySchool" />
+<outline xmlUrl="https://abduzeedo.com/rss.xml" type="rss" htmlUrl="https://abduzeedo.com/" text="abdz" title="abdz" />
+</outline>
+<outline text="Internet" title="Internet">
+<outline text="少数派" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com" type="rss" title="少数派" />
+<outline title="爱范儿" htmlUrl="https://www.ifanr.com?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="http://ifanr.com/feed" type="rss" text="爱范儿" />
+<outline text="爱运营" htmlUrl="https://www.iyunying.org" xmlUrl="https://www.iyunying.org/feed" title="爱运营" type="rss" />
+<outline type="rss" htmlUrl="https://www.zaodula.com" xmlUrl="https://www.zaodula.com/feed" title="互联网早读课" text="互联网早读课" />
+<outline type="rss" text="36氪" htmlUrl="http://36kr.com" xmlUrl="https://36kr.com/feed" title="36氪" />
+<outline htmlUrl="https://livesino.net" title="LiveSino" xmlUrl="https://livesino.net/feed" type="rss" text="LiveSino" />
+<outline type="rss" text="Product Hunt " xmlUrl="https://www.producthunt.com/feed" title="Product Hunt " htmlUrl="https://www.producthunt.com" />
+<outline xmlUrl="https://techcrunch.com/feed/" type="rss" title="TechCrunch" htmlUrl="https://techcrunch.com" text="TechCrunch" />
+<outline text="Linux 中国" htmlUrl="https://linux.cn/" type="rss" title="Linux 中国" xmlUrl="https://linux.cn/rss.xml" />
+</outline>
+<outline text="News" title="News">
+<outline type="rss" xmlUrl="http://www.lieyunwang.com/feed" htmlUrl="http://www.lieyunwang.com" title="猎云网" text="猎云网" />
+<outline type="rss" htmlUrl="http://www.evolife.cn" xmlUrl="http://feed.evolife.cn/" text="爱活网" title="爱活网" />
+<outline type="rss" text="IT之家" title="IT之家" htmlUrl="https://www.ithome.com/" xmlUrl="http://www.ithome.com/rss/" />
+<outline text="雷锋网" xmlUrl="https://www.leiphone.com/feed" type="rss" title="雷锋网" htmlUrl="https://www.leiphone.com" />
+<outline title="自由亚洲电台" type="rss" xmlUrl="http://www.rfa.org/mandarin/RSS" htmlUrl="https://www.rfa.org/mandarin" text="自由亚洲电台" />
+<outline htmlUrl="http://www.dapenti.com/blog/blog.asp?name=xilei" title="喷嚏网" text="喷嚏网" xmlUrl="http://www.dapenti.com/blog/rss2.asp?name=xilei" type="rss" />
+<outline htmlUrl="http://thepaper.cn" text="澎湃新闻" type="rss" xmlUrl="https://feedx.net/rss/thepaper.xml" title="澎湃新闻" />
+</outline>
+<outline title="Other" text="Other">
+<outline title="小众软件" type="rss" text="小众软件" htmlUrl="https://www.appinn.com" xmlUrl="https://www.appinn.com/feed" />
+<outline type="rss" xmlUrl="http://tpowcuhk.blogspot.com/feeds/posts/default" text="書寫力量" title="書寫力量" htmlUrl="http://tpowcuhk.blogspot.com/" />
+<outline type="rss" text="iOS | 反斗限免" xmlUrl="http://free.apprcn.com/category/ios/feed/" htmlUrl="http://free.apprcn.com" title="iOS | 反斗限免" />
+<outline type="rss" title="101 Cookbooks" text="101 Cookbooks" xmlUrl="http://feeds.101cookbooks.com/101cookbooks" htmlUrl="https://www.101cookbooks.com" />
+<outline xmlUrl="http://feed.williamlong.info/" text="月光博客" title="月光博客" type="rss" htmlUrl="https://www.williamlong.info/" />
+<outline type="rss" htmlUrl="http://www.zhihu.com" text="知乎每日精选" title="知乎每日精选" xmlUrl="http://www.zhihu.com/rss" />
+<outline htmlUrl="https://www.iplaysoft.com" xmlUrl="https://feed.iplaysoft.com/" text="异次元软件世界" title="异次元软件世界" type="rss" />
+</outline>
+</body>
+</opml>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 永 tagged as 新聞速覽 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="新聞速覽" title="新聞速覽">
+      <outline text="南方周末" title="南方周末" type="rss" xmlUrl="https://rsshub.app/infzm/2" htmlUrl="https://www.infzm.com/contents?term_id2"/>
+      <outline text="FT一周排行" title="FT一周排行" type="rss" xmlUrl="https://feedx.net/rss/ftweekly.xml" htmlUrl="https://feedx.net/rss/ftweekly.xml"/>
+      <outline text="BBC最热排行" title="BBC最热排行" type="rss" xmlUrl="https://feedx.net/rss/bbctop.xml" htmlUrl="https://feedx.net/rss/bbctop.xml"/>
+      <outline text="界面新闻" title="界面新闻" type="rss" xmlUrl="https://feedx.net/rss/jiemian.xml" htmlUrl="https://www.jiemian.com/"/>
+      <outline text="澎湃新闻" title="澎湃新闻" type="rss" xmlUrl="https://feedx.net/rss/thepaper.xml" htmlUrl="https://feedx.net/rss/thepaper.xml"/>
+      <outline text="联合早报" title="联合早报" type="rss" xmlUrl="https://rsshub.app/zaobao/realtime/china" htmlUrl="https://www.zaobao.com.sg/realtime"/>
+      <outline text="靠谱新闻" title="靠谱新闻" type="rss" xmlUrl="https://rsshub.app/kaopunews/all" htmlUrl="https://kaopu.news/"/>
+      <outline text=" 臺灣中央社 CNA" title=" 臺灣中央社 CNA" type="rss" xmlUrl="https://rsshub.app/cna/aall" htmlUrl="https://www.cna.com.tw/list/aall.aspx"/>
+      <outline text="新浪科技科学" title="新浪科技科学" type="rss" xmlUrl="https://rsshub.app/sina/discovery/zx" htmlUrl="https://tech.sina.com.cn/discovery/"/>
+      <outline text="美国之音" title="美国之音" type="rss" xmlUrl="http://www.voachinese.com/api/" htmlUrl="http://www.voachinese.com/"/>
+      <outline text="美国之音中文网 " title="美国之音中文网 " type="rss" xmlUrl="https://rsshub.app/twitter/user/VOAChinese" htmlUrl="https://twitter.com/VOAChinese/"/>
+      <outline text="纽约时报中文网" title="纽约时报中文网" type="rss" xmlUrl="https://rsshub.app/twitter/user/nytchinese" htmlUrl="https://twitter.com/nytchinese/"/>
+      <outline text="路透中文" title="路透中文" type="rss" xmlUrl="https://feedx.net/rss/reuters.xml" htmlUrl="https://feedx.net/rss/reuters.xml"/>
+      <outline text="纽约时报" title="纽约时报" type="rss" xmlUrl="https://feedx.net/rss/nytimes.xml" htmlUrl="https://feedx.net/rss/nytimes.xml"/>
+      <outline text="FT中文" title="FT中文" type="rss" xmlUrl="https://feedx.net/rss/ft.xml" htmlUrl="https://feedx.net/rss/ft.xml"/>
+      <outline text="中央通訊社" title="中央通訊社" type="rss" xmlUrl="https://feedx.net/rss/cna.xml" htmlUrl="https://feedx.net/rss/cna.xml"/>
+      <outline text="BBC" title="BBC" type="rss" xmlUrl="https://feedx.net/rss/bbc.xml" htmlUrl="https://feedx.net/rss/bbc.xml"/>
+      <outline text="Investing.com" title="Investing.com" type="rss" xmlUrl="https://feedx.net/rss/investing.xml" htmlUrl="https://feedx.net/rss/investing.xml"/>
+      <outline text="半岛电视台" title="半岛电视台" type="rss" xmlUrl="https://feedx.net/rss/aljazeera.xml" htmlUrl="http://chinese.aljazeera.net/"/>
+      <outline text="日经中文网" title="日经中文网" type="rss" xmlUrl="https://feedx.net/rss/nikkei.xml" htmlUrl="https://feedx.net/rss/nikkei.xml"/>
+      <outline text="德国之声" title="德国之声" type="rss" xmlUrl="https://feedx.net/rss/dw.xml" htmlUrl="https://feedx.net/rss/dw.xml"/>
+      <outline text="朝日新闻" title="朝日新闻" type="rss" xmlUrl="https://feedx.net/rss/asahi.xml" htmlUrl="https://feedx.net/rss/asahi.xml"/>
+      <outline text="韩国中央日报" title="韩国中央日报" type="rss" xmlUrl="https://feedx.net/rss/joins.xml" htmlUrl="https://chinese.joins.com/"/>
+      <outline text="澳大利亚广播公司" title="澳大利亚广播公司" type="rss" xmlUrl="https://feedx.net/rss/abc.xml" htmlUrl="http://www.abc.net.au/"/>
+      <outline text="朝鲜日报" title="朝鲜日报" type="rss" xmlUrl="https://feedx.net/rss/chosun.xml" htmlUrl="https://feedx.net/rss/chosun.xml"/>
+      <outline text="法广" title="法广" type="rss" xmlUrl="https://feedx.net/rss/rfi.xml" htmlUrl="https://feedx.net/rss/rfi.xml"/>
+      <outline text="俄罗斯卫星通讯社" title="俄罗斯卫星通讯社" type="rss" xmlUrl="https://feedx.net/rss/sputnik.xml" htmlUrl="https://feedx.net/rss/sputnik.xml"/>
+      <outline text="多维新闻" title="多维新闻" type="rss" xmlUrl="https://rsshub.app/dwnews/yaowen/global" htmlUrl="http://news.dwnews.com/global"/>
+      <outline text="香港電台rthk" title="香港電台rthk" type="rss" xmlUrl="https://rsshub.app/rthk-news/hk/international" htmlUrl="http://rthk.hk/"/>
+      <outline text="华尔街见闻" title="华尔街见闻" type="rss" xmlUrl="https://rsshub.app/wallstreetcn/news/global" htmlUrl="https://wallstreetcn.com/news/global"/>
+      <outline text="文汇报 - 笔会" title="文汇报 - 笔会" type="rss" xmlUrl="https://rsshub.app/whb/bihui" htmlUrl="http://www.whb.cn/zhuzhan/bihui/index.html"/>
+      <outline text="中時電子報China Times" title="中時電子報China Times" type="rss" xmlUrl="https://rsshub.app/chinatimes/realtimenews" htmlUrl="https://www.chinatimes.com/realtimenews/?chdtv"/>
+      <outline text="端传媒" title="端传媒" type="rss" xmlUrl="https://rsshub.app/initium/latest/zh-hans" htmlUrl="https://theinitium.com/channel/latest/"/>
+      <outline text="每经网" title="每经网" type="rss" xmlUrl="https://rsshub.app/nbd/daily" htmlUrl="http://www.nbd.com.cn/columns/332"/>
+      <outline text="澎湃头条" title="澎湃头条" type="rss" xmlUrl="https://rsshub.app/thepaper/featured" htmlUrl="https://m.thepaper.cn/"/>
+      <outline text="新京报网" title="新京报网" type="rss" xmlUrl="https://rsshub.app/bjnews/realtime" htmlUrl="http://www.bjnews.com.cn/realtime"/>
+      <outline text="央视新闻" title="央视新闻" type="rss" xmlUrl="https://rsshub.app/cctv/world" htmlUrl="https://github.com/DIYgod/RSSHub"/>
+      <outline text="财新网" title="财新网" type="rss" xmlUrl="https://rsshub.app/caixin/article" htmlUrl="http://www.caixin.com/"/>
+    </outline>
+  </body>
+</opml>

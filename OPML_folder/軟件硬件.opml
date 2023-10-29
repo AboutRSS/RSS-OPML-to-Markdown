@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of 永 tagged as 軟件硬件 from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="軟件硬件" title="軟件硬件">
+      <outline text="DUN.IM" title="DUN.IM" type="rss" xmlUrl="https://blog.dun.im/feed" htmlUrl="https://blog.dun.im/"/>
+      <outline text="Go 2 Think" title="Go 2 Think" type="rss" xmlUrl="https://go2think.com/feed/" htmlUrl="https://go2think.com/"/>
+      <outline text="Mac玩儿法" title="Mac玩儿法" type="rss" xmlUrl="http://www.waerfa.com/feed" htmlUrl="http://www.waerfa.com/"/>
+      <outline text="MakeUseOf" title="MakeUseOf" type="rss" xmlUrl="https://www.makeuseof.com/feed/" htmlUrl="https://www.makeuseof.com/"/>
+      <outline text="Readhub热门" title="Readhub热门" type="rss" xmlUrl="https://rsshub.app/readhub/category/topic" htmlUrl="https://readhub.me/"/>
+      <outline text="ZAPRO · 杂铺" title="ZAPRO · 杂铺" type="rss" xmlUrl="https://tmioe.com/feed" htmlUrl="https://tmioe.com/"/>
+      <outline text="不死鸟" title="不死鸟" type="rss" xmlUrl="https://lai.yuweining.cn/feed/" htmlUrl="https://lai.yuweining.cn/"/>
+      <outline text="免費資源網路社群" title="免費資源網路社群" type="rss" xmlUrl="https://feeds.feedburner.com/freegroup/" htmlUrl="https://free.com.tw/"/>
+      <outline text="小众软件" title="小众软件" type="rss" xmlUrl="http://feeds.appinn.com/appinns/" htmlUrl="http://www.appinn.com/"/>
+      <outline text="少数派" title="少数派" type="rss" xmlUrl="http://sspai.com/feed" htmlUrl="http://sspai.com/feed"/>
+      <outline text="异星软件空间" title="异星软件空间" type="rss" xmlUrl="http://www.yxssp.com/rss" htmlUrl="http://www.yxssp.com/"/>
+      <outline text="异次元软件世界" title="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/" htmlUrl="http://www.iplaysoft.com/"/>
+      <outline text="数字尾巴" title="数字尾巴" type="rss" xmlUrl="http://www.dgtle.com/rss/dgtle.xml" htmlUrl="http://www.dgtle.com/"/>
+      <outline text="最美应用" title="最美应用" type="rss" xmlUrl="http://zuimeia.com/feed/" htmlUrl="http://zuimeia.com/?utm_source=rss&amp;utm_campaign=rss&amp;utm_medium=toutiao"/>
+      <outline text="有格调" title="有格调" type="rss" xmlUrl="https://www.ugediao.com/feed" htmlUrl="https://www.ugediao.com/"/>
+      <outline text="极客公园" title="极客公园" type="rss" xmlUrl="https://rsshub.app/geekpark/breakingnews" htmlUrl="https://www.geekpark.net/breakingnews"/>
+      <outline text="㊣軟體玩家" title="㊣軟體玩家" type="rss" xmlUrl="http://feeds.feedburner.com/quicktop" htmlUrl="http://blog.soft.idv.tw/"/>
+      <outline text="爱范儿 " title="爱范儿 " type="rss" xmlUrl="http://www.ifanr.com/feed" htmlUrl="http://www.ifanr.com/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign="/>
+      <outline text="瘾科技Engadget " title="瘾科技Engadget " type="rss" xmlUrl="http://cn.engadget.com/rss.xml" htmlUrl="http://cn.engadget.com/"/>
+      <outline text="老殁 | 殁漂遥" title="老殁 | 殁漂遥" type="rss" xmlUrl="https://www.mpyit.com/feed" htmlUrl="https://www.mpyit.com/"/>
+      <outline text="重灌狂人" title="重灌狂人" type="rss" xmlUrl="http://feeds.feedburner.com/briian" htmlUrl="http://briian.com/"/>
+      <outline text="電腦玩物" title="電腦玩物" type="rss" xmlUrl="https://www.playpcesor.com/feeds/posts/default" htmlUrl="http://www.playpcesor.com/"/>
+    </outline>
+  </body>
+</opml>

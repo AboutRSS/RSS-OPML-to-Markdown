@@ -8,6 +8,7 @@ import sys
 import ssl
 import requests
 import json
+import re
 
 # this part of code below comes from https://stackoverflow.com/questions/28282797/feedparser-parse-ssl-certificate-verify-failed
 # it is highly discouraged.
@@ -23,10 +24,10 @@ import json
 name = "rss-opml-to-markdown"
 
 def is_fetch_failed(item):
-    return item[2] == 'fetch failed'
+    return item[4] == 'fetch failed'
 
 def is_no_entry(item):
-    return item[2] == 'no entry'
+    return item[4] == 'no entry'
 
 def sort_rst(rst):
     rst.sort(key=is_no_entry)
@@ -99,29 +100,35 @@ def parse(file_name):
             # print(feedcontent)
             item_count = len(feedcontent['entries'])
             if item_count > 0:
-                if 'updated' in feedcontent.feed:
-                    last_updated = feedcontent.feed['updated']
+                if 'published' in feedcontent.entries[0]:
+                    last_updated = feedcontent.entries[0]['published']
                 else:
-                    if 'published' in feedcontent.entries[0]:
-                        last_updated = feedcontent.entries[0]['published']
+                    if 'updated' in feedcontent.feed:
+                        last_updated = feedcontent.feed['updated']
                     else:
                         last_updated = 'not found'
+                
                 if 'content-length' in feedcontent.headers:
                     content_length = feedcontent.headers['content-length']
                     print(content_length)
                 else:
                     content_length = len(json.dumps(feedcontent))
+
                 if 'language' in feedcontent.feed:
                     language = feedcontent.feed['language']
                 else:
                     language = 'not found'
+                
                 # is_podcast = feedcontent[0]['is_podcast']
-                for key, value in feedcontent.entries[0].links[0].items():
+                if 'links' in feedcontent.entries[0]:
+                  for key, value in feedcontent.entries[0].links[0].items():
                     if value == "enclosure":
                         is_podcast = True
                         break
                     else:
                         is_podcast = False
+                else:
+                  is_podcast = False
                 
                 for key in feedcontent.entries[0].keys():
                     if key.find("itunes") != -1:
@@ -130,39 +137,64 @@ def parse(file_name):
                     else:
                         is_podcast = is_podcast + False
                 
-                if is_podcast == 2:
+                if is_podcast >= 1:
                     is_podcast = True
                 else:
                     is_podcast = False
                 
                 # velocity = feedcontent[0]['velocity']
                 version = feedcontent.version
+                
+                titlestr=feed['title']
+                titlestr=re.sub(r"\|", r"-", titlestr)
+                
                 # rst.append([feed['title'], feed['url'],last_updated,is_podcast,item_count,content_length,velocity,version])
-                rst.append([feed['title'], feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                if 'link' in feedcontent.feed:
+                    rst.append([titlestr, feedcontent.feed['link'],feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                elif 'links' in feedcontent.feed:
+                    if 'href' in feedcontent.feed.links[0]:
+                        rst.append([titlestr, feedcontent.feed.links[0].href,feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                    else:
+                        rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                else:
+                    rst.append([titlestr, 'NaN',feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
             else:
-                rst.append([feed['title'], feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                titlestr=feed['title']
+                titlestr=re.sub(r"\|", r"-", titlestr)
+                if 'link' in feedcontent.feed:
+                    rst.append([titlestr, feedcontent.feed['link'],feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                elif 'links' in feedcontent.feed:
+                    if 'href' in feedcontent.feed.links[0]:
+                        rst.append([titlestr, feedcontent.feed.links[0].href,feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                    else:
+                        rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                else:
+                    rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
         else:
             feedcontent = get_feed_content_using_requests(feed['url'])
             if feedcontent and feedcontent != '{}':
             # print(feedcontent)
                 item_count = len(feedcontent['entries'])
                 if item_count > 0:
-                    if 'updated' in feedcontent.feed:
-                        last_updated = feedcontent.feed['updated']
+                    if 'published' in feedcontent.entries[0]:
+                        last_updated = feedcontent.entries[0]['published']
                     else:
-                        if 'published' in feedcontent.entries[0]:
-                            last_updated = feedcontent.entries[0]['published']
+                        if 'updated' in feedcontent.feed:
+                            last_updated = feedcontent.feed['updated']
                         else:
                             last_updated = 'not found'
+
                     if 'content-length' in feedcontent.headers:
                         content_length = feedcontent.headers['content-length']
                         print(content_length)
                     else:
                         content_length = len(json.dumps(feedcontent))
+
                     if 'language' in feedcontent.feed:
                         language = feedcontent.feed['language']
                     else:
                         language = 'not found'
+
                     # is_podcast = feedcontent[0]['is_podcast']
                     for key, value in feedcontent.entries[0].links[0].items():
                         if value == "enclosure":
@@ -178,25 +210,49 @@ def parse(file_name):
                         else:
                            is_podcast = is_podcast + False
                 
-                    if is_podcast == 2:
+                    if is_podcast >= 1:
                         is_podcast = True
                     else:
                         is_podcast = False
                 
                     # velocity = feedcontent[0]['velocity']
                     version = feedcontent.version
+
+                    titlestr=feed['title']
+                    titlestr=re.sub(r"\|", r"-", titlestr)
+
                     # rst.append([feed['title'], feed['url'],last_updated,is_podcast,item_count,content_length,velocity,version])
-                    rst.append([feed['title'], feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                    if 'link' in feedcontent.feed:
+                        rst.append([titlestr, feedcontent.feed['link'],feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                    elif 'links' in feedcontent.feed:
+                        if 'href' in feedcontent.feed.links[0]:
+                            rst.append([titlestr, feedcontent.feed.links[0].href,feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                        else:
+                            rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                    else:
+                        rst.append([titlestr, 'NaN',feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
                 else:
-                    rst.append([feed['title'], feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                    titlestr=feed['title']
+                    titlestr=re.sub(r"\|", r"-", titlestr)
+                    if 'link' in feedcontent.feed:
+                        rst.append([titlestr, feedcontent.feed['link'],feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                    elif 'links' in feedcontent.feed:
+                        if 'href' in feedcontent.feed.links[0]:
+                            rst.append([titlestr, feedcontent.feed.links[0].href,feed['url'],last_updated,item_count,content_length,language,version,is_podcast])
+                        else:
+                            rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
+                    else:
+                        rst.append([titlestr, 'NaN',feed['url'],'no entry','no entry','no entry','no entry','no entry','no entry'])
             else:
-                rst.append([feed['title'], feed['url'],'fetch failed','fetch failed','fetch failed','fetch failed','fetch failed','fetch failed'])
+                titlestr=feed['title']
+                titlestr=re.sub(r"\|", r"-", titlestr)
+                rst.append([titlestr, 'NaN',feed['url'],'fetch failed','fetch failed','fetch failed','fetch failed','fetch failed','fetch failed'])
         # print(tabulate.tabulate(rst, headers=['Title', 'URL','Last Updated','Podcast','Item Count','Content Length','The mean number of items per day','Detected feed type version'], tablefmt='pipe'))
     return rst
 
 def print_to_std(feeds_list):
     # print(tabulate.tabulate(feeds_list, headers=['Title', 'URL','Last Updated','Podcast','Item Count','Content Length (bytes)','The mean number of items per day','Detected feed type version'], tablefmt='pipe'))
-    print(tabulate.tabulate(feeds_list, headers=['Title', 'URL','Last Updated','Item Count','Content Length (bytes)','Language','Detected feed type version','Podcast feed or not'], tablefmt='pipe'))
+    print(tabulate.tabulate(feeds_list, headers=['Sequence Number','Title', 'Site URL','Feed URL','Last Updated','Item Count','Content Length (bytes)','Language','Detected feed type version','Podcast feed or not'], tablefmt='pipe'))
     # for tag, feed_list in feeds_list.items():
     # for feed_list in feeds_list.items():
         # print("# " + tag + "\n")
@@ -207,7 +263,7 @@ def print_to_std(feeds_list):
 def print_to_file(feeds_list, filename):
     with open(filename, 'wt', encoding="utf-8") as f:
         # f.write(tabulate.tabulate(feeds_list, headers=["Title", "URL","Last Updated","Podcast","Item Count","Content Length (bytes)","The mean number of items per day","Detected feed type version"], tablefmt="pipe"))
-        f.write(tabulate.tabulate(feeds_list, headers=["Title", "URL","Last Updated","Item Count","Content Length (bytes)","Language","Detected feed type version","Podcast feed or not"], tablefmt="pipe"))
+        f.write(tabulate.tabulate(feeds_list, headers=["Sequence Number","Title","Site URL", "Feed URL","Last Updated","Item Count","Content Length (bytes)","Language","Detected feed type version","Podcast feed or not"], tablefmt="pipe"))
         # for tag, feed_list in feeds_list.items():
         # for feed_list in feeds_list.items():
             # f.write("# " + tag + "\n")
@@ -225,10 +281,12 @@ def main():
     elif len(sys.argv) == 2:
         feeds_list = parse(sys.argv[1])
         feeds_list = sort_rst(feeds_list)
+        feeds_list = [[i + 1] + item for i, item in enumerate(feeds_list)]
         print_to_std(feeds_list)
     elif len(sys.argv) == 3:
         feeds_list = parse(sys.argv[1])
         feeds_list = sort_rst(feeds_list)
+        feeds_list = [[i + 1] + item for i, item in enumerate(feeds_list)]
         print_to_file(feeds_list, sys.argv[2])
         print("Finished !")
     else:
