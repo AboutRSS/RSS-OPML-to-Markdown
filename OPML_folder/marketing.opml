@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Marketing and Business Blogs (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)</title>
+    <dateCreated>Mon, 30 Oct 2023 10:02:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Appbot" xmlUrl="https://stories.appbot.co/feed" htmlUrl="https://stories.appbot.co/" description="By Stuart Hall, Claire McGregor, Christie Hunter"/>
+    <outline type="rss" text="Appfigures Blog" xmlUrl="https://blog.appfigures.com/feed/" htmlUrl="https://blog.appfigures.com/" description="By Appfigures Team"/>
+    <outline type="rss" text="Appfigures Resources" xmlUrl="https://appfigures.com/resources/rss/" htmlUrl="https://appfigures.com/resources" description="By Appfigures Team"/>
+    <outline type="rss" text="AppManager" xmlUrl="https://transporterlab.com" htmlUrl="https://transporterlab.com" description="By Max Ott"/>
+    <outline type="rss" text="ASO Blog" xmlUrl="https://www.iwantanelephant.com/app-store-optimization-articles-blog/feed/" htmlUrl="https://www.iwantanelephant.com/app-store-optimization-articles-blog/" description="By I WANT AN ELEPHANT"/>
+    <outline type="rss" text="ASO Stack on Medium" xmlUrl="https://phiture.com/asostack/feed/" htmlUrl="https://phiture.com/asostack/" description="By ASO Stack team"/>
+    <outline type="rss" text="Curtis Herbert’s Blog" xmlUrl="https://blog.curtisherbert.com/rss/" htmlUrl="https://blog.curtisherbert.com/" description="By Curtis Herbert"/>
+    <outline type="rss" text="The FutureBlog – For App Marketers" xmlUrl="https://www.futuretap.com/category/blog/feed?tag=app-marketing" htmlUrl="https://www.futuretap.com/blog?tag=app-marketing" description="By Ortwin Gentz"/>
+    <outline type="rss" text="Hey, I Make Apps!" xmlUrl="https://heyimakeapps.com/blog?format=rss" htmlUrl="https://heyimakeapps.com/blog/" description="By Michael Tigas"/>
+    <outline type="rss" text="Indie Spark" xmlUrl="https://indiespark.top/tag/app-store/feed/" htmlUrl="https://indiespark.top/tag/app-store/" description="By Sasmito Adibowo"/>
+    <outline type="rss" text="Joe Cieplinski’s Blog" xmlUrl="https://joecieplinski.com/blog/rss/" htmlUrl="https://joecieplinski.com/blog/" description="By Joe Cieplinski"/>
+    <outline type="rss" text="Mobile Ad.ventures" xmlUrl="https://madv.substack.com/feed" htmlUrl="https://madv.substack.com/" description="By Thomas Petit"/>
+    <outline type="rss" text="Niels Mouthaan's Blog" xmlUrl="https://blog.nielsmouthaan.nl/rss.xml" htmlUrl="https://blog.nielsmouthaan.nl/" description="By Niels Mouthaan"/>
+    <outline type="rss" text="Vini Leal's Blog" xmlUrl="https://vinileal.com/feed.xml" htmlUrl="https://vinileal.com" description="By Vinicius Leal"/>
+    <outline type="rss" text="Yvz Digital Lab" xmlUrl="https://yvz.fr/feed/" htmlUrl="https://yvz.fr" description="By Yves Jannic"/>
+    <outline type="rss" text="Zachary Shakked's Blog" xmlUrl="https://blog.zach.so/feed" htmlUrl="https://blog.zach.so" description="By Zachary Shakked"/>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Newsletters (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)</title>
+    <dateCreated>Mon, 30 Oct 2023 10:02:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Indie Dev Monday" xmlUrl="https://indiedevmonday.com/feed.xml" htmlUrl="https://indiedevmonday.com" description="By Josh Holtz"/>
+    <outline type="rss" text="Indie Watch" xmlUrl="https://indie.watch/rss/" htmlUrl="https://indie.watch/" description="By Aryaman Sharda"/>
+    <outline type="rss" text="iOS CI Newsletter" xmlUrl="https://www.polpiella.dev/newsletter/rss.xml" htmlUrl="https://www.polpiella.dev/newsletter" description="By Pol Piella Abadia"/>
+    <outline type="rss" text="iOS Code Review - Curated code improvement tips" xmlUrl="https://ioscodereview.com/feed.xml/" htmlUrl="https://ioscodereview.com" description="By Marina Gornostaeva"/>
+    <outline type="rss" text="iOS Dev Weekly" xmlUrl="https://iosdevweekly.com/issues.rss" htmlUrl="https://iosdevweekly.com/" description="By Dave Verwer"/>
+    <outline type="rss" text="iOS Development Tips and Tricks" xmlUrl="https://medium.com/feed/@bugorbn" htmlUrl="https://bugorbn.medium.com" description="By Boris Bugor"/>
+    <outline type="rss" text="iOS Goodies" xmlUrl="https://ios-goodies.com/rss" htmlUrl="https://ios-goodies.com/" description="By Marius Constantinescu"/>
+    <outline type="rss" text="iOS Stack Weekly" xmlUrl="https://blog.canopas.com/feed/tagged/canopas-ios-weekly" htmlUrl="https://blog.canopas.com/tagged/canopas-ios-weekly" description="By Jimmy Sanghani"/>
+    <outline type="rss" text="Swift Developments" xmlUrl="https://andybargh.com/feed/" htmlUrl="https://andybargh.com/swiftdevelopments/" description="By Andy Bargh"/>
+    <outline type="rss" text="Swift Evolution Monthly" xmlUrl="https://swiftevolution.substack.com/feed" htmlUrl="https://swiftevolution.substack.com" description="By Cihat Gündüz"/>
+    <outline type="rss" text="Swift Weekly" xmlUrl="http://digest.swiftweekly.com/?format=rss" htmlUrl="https://swiftweekly.com" description="By Sascha Schwabbauer"/>
+    <outline type="rss" text="Swift World" xmlUrl="https://medium.com/feed/@NilStack" htmlUrl="https://medium.com/@NilStack" description="By Peng Guo"/>
+    <outline type="rss" text="SwiftlyRush Weekly" xmlUrl="https://swiftlyrush.curated.co/issues.rss" htmlUrl="https://www.swiftlyrush.com/" description="By Adam Rush"/>
+  </body>
+</opml>

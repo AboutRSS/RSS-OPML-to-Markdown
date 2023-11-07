@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Subscriptions of lyle liu from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="产品经理" title="产品经理">
+      <outline text="苏杰谈产品" title="苏杰谈产品" type="rss" xmlUrl="https://rsshub.app/jike/topic/573725cc662839120080941a" htmlUrl="https://web.okjike.com/topic/573725cc662839120080941a/official"/>
+      <outline text="产品经理刘涵宇" title="产品经理刘涵宇" type="rss" xmlUrl="https://rsshub.app/jike/topic/5a7666c5bc11f5001793b546" htmlUrl="https://web.okjike.com/topic/5a7666c5bc11f5001793b546/official"/>
+      <outline text="刘言飞语" title="刘言飞语" type="rss" xmlUrl="https://rsshub.app/jike/topic/584fad9efff9a30011e7e294" htmlUrl="https://web.okjike.com/topic/584fad9efff9a30011e7e294/official"/>
+      <outline text="幕后产品" title="幕后产品" type="rss" xmlUrl="https://rsshub.app/jike/topic/5847c663476a4f0011f30a77" htmlUrl="https://web.okjike.com/topic/5847c663476a4f0011f30a77/official"/>
+      <outline text="Glen产品经理的故事" title="Glen产品经理的故事" type="rss" xmlUrl="https://rsshub.app/jike/topic/58ac5c3ae4a0250015648403" htmlUrl="https://web.okjike.com/topic/58ac5c3ae4a0250015648403/official"/>
+      <outline text="纯银V - 简书" title="纯银V - 简书" type="rss" xmlUrl="https://rsshub.app/jianshu/user/c22ccc510fb9" htmlUrl="https://www.jianshu.com/u/c22ccc510fb9"/>
+      <outline text="产品经理@唐杰" title="产品经理@唐杰" type="rss" xmlUrl="https://tangjie.me/feed" htmlUrl="https://tangjie.me/"/>
+    </outline>
+  </body>
+</opml>

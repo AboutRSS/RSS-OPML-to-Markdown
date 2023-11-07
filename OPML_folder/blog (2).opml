@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>aronly@foxmail.com subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="独立开发者" title="独立开发者">
+            <outline type="rss" text="Kevin Blog" title="Kevin Blog" xmlUrl="https://zhowkev.in/rss/" htmlUrl="https://zhowkev.in/"/>
+            <outline type="rss" text="Jason" title="Jason" xmlUrl="https://atjason.com/atom.xml" htmlUrl="https://atjason.com/"/>
+            <outline type="rss" text="61’s life" title="61’s life" xmlUrl="https://61.life/feed.xml" htmlUrl="https://61.life/"/>
+            <outline type="rss" text="Tolecen" title="Tolecen" xmlUrl="https://xinle.co/feed/" htmlUrl="https://xinle.co"/>
+            <outline type="rss" text="落格 - logcg.com" title="落格 - logcg.com" xmlUrl="https://www.logcg.com/feed" htmlUrl="https://www.logcg.com"/>
+            <outline type="rss" text="I'm TualatriX" title="I'm TualatriX" xmlUrl="http://feeds.feedburner.com/tualatrix" htmlUrl="http://imtx.me/"/>
+        </outline>
+    </body>
+</opml>

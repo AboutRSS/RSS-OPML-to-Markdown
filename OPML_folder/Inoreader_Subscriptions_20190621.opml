@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>「思考生活」blogger合集 created by nifanle7 in Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="「思考生活」blogger合集" title="「思考生活」blogger合集">
+      <outline text="米走" title="米走" type="rss" xmlUrl="https://mizou.org/rss" htmlUrl="https://mizou.org/"/>
+      <outline text="最好金龟换酒" title="最好金龟换酒" type="rss" xmlUrl="http://fz0512.com/feed" htmlUrl="http://fz0512.com/"/>
+      <outline text="木遥的窗子" title="木遥的窗子" type="rss" xmlUrl="http://blog.farmostwood.net/feed" htmlUrl="http://blog.farmostwood.net/"/>
+      <outline text="中文博客 on Yihui Xie | 谢益辉" title="中文博客 on Yihui Xie | 谢益辉" type="rss" xmlUrl="https://yihui.name/cn/index.xml" htmlUrl="https://yihui.name/cn/index.xml"/>
+      <outline text="唐小筑" title="唐小筑" type="rss" xmlUrl="http://blog.tangxiaozhu.com/atom.xml" htmlUrl="http://blog.tangxiaozhu.com/"/>
+      <outline text="透明思考" title="透明思考" type="rss" xmlUrl="http://gigix.thoughtworkers.org/atom.xml" htmlUrl="http://gigix.thoughtworkers.org/"/>
+      <outline text="绿帽子大学" title="绿帽子大学" type="rss" xmlUrl="https://lmzdx.com/feed/" htmlUrl="https://lmzdx.com/"/>
+      <outline text="IT 公论" title="IT 公论" type="rss" xmlUrl="http://blog.itgonglun.com/feed/" htmlUrl="http://blog.itgonglun.com/"/>
+    </outline>
+  </body>
+</opml>

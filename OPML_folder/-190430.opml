@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>利器团队blog（20190430更新）</title>
+    </head>
+    <body>
+        <outline text="利器团队" title="利器团队">
+            <outline type="rss" text="温国兵的随想录" title="温国兵的随想录" xmlUrl="http://dbarobin.com/feed.xml" htmlUrl="https://dbarobin.com/"/>
+            <outline type="rss" text="她已非昔日之她" title="她已非昔日之她" xmlUrl="https://underwaternya.github.io/feed.xml" htmlUrl="http://underwaternya.github.io/"/>
+            <outline type="rss" text="离散点播客" title="离散点播客" xmlUrl="https://lisan.io/podcast?format=RSS" htmlUrl="https://lisan.io/"/>
+        </outline>
+    </body>
+</opml>

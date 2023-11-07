@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf8" standalone="yes"?>
+<opml version="1.1">
+	<head>
+		<title>Infosec Podcasts</title>
+		<dateCreated>2022-09-19 20:18:01.048447</dateCreated>
+		<dateModified>2023-05-31 11:56:01.048447</dateModified>
+	</head>
+	<body>
+		<outline text="Infosec Podcasts" title="Infosec Podcasts">
+			<outline text="DISCARDED: Tales from the Threat Research Trenches" title="DISCARDED: Tales from the Threat Research Trenches" type="rss" version="RSS" htmlUrl="https://www.spreaker.com/show/5745431/episodes/feed" xmlUrl="https://www.spreaker.com/show/5745431/episodes/feed"/>
+			<outline text="SOCTales" title="SOCTales" type="rss" version="RSS" htmlUrl="https://feeds.buzzsprout.com/2040556.rss" xmlUrl="https://feeds.buzzsprout.com/2040556.rss"/>
+			<outline text="Cyber CEOs Decoded" title="Cyber CEOs Decoded" type="rss" version="RSS" htmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded" xmlUrl="https://feeds.megaphone.fm/cyber-ceos-decoded"/>
+			<outline text="Getting Into Infosec" title="Getting Into Infosec" type="rss" version="RSS" htmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss" xmlUrl="https://www.omnycontent.com/d/playlist/661dda14-433b-4d91-abf2-acaf0037d1f9/368fbcc1-e1bd-4bb4-aba3-acaf003892db/624bf5b2-12fd-4569-8da3-acaf003892ed/podcast.rss"/>
+			<outline text="Security. Cryptography. Whatever." title="Security. Cryptography. Whatever." type="rss" version="RSS" htmlUrl="https://feeds.buzzsprout.com/1822302.rss" xmlUrl="https://feeds.buzzsprout.com/1822302.rss"/>
+			<outline text="Cloud Ace Podcast" title="Cloud Ace Podcast" type="rss" version="RSS" htmlUrl="https://podcasts.apple.com/us/podcast/cloud-ace/id1646566112" xmlUrl="https://podcasts.apple.com/us/podcast/cloud-ace/id1646566112"/>
+			<outline text="Unsolicited Response Podcast" title="Unsolicited Response Podcast" type="rss" version="RSS" htmlUrl="https://feeds.libsyn.com/99465/rss" xmlUrl="https://feeds.libsyn.com/99465/rss"/>
+			<outline text="The 443 - Security Simplified" title="The 443 - Security Simplified" type="rss" version="RSS" htmlUrl="https://www.secplicity.org/" xmlUrl="https://www.secplicity.org/feed/podcast/"/>
+			<outline text="7 Minute Security" title="7 Minute Security" type="rss" version="RSS" htmlUrl="https://7ms.us/" xmlUrl="https://feeds.libsyn.com/254153/rss"/>
+			<outline text="The Abricto Podcast" title="The Abricto Podcast" type="rss" version="RSS" htmlUrl="https://www.buzzsprout.com/1874302" xmlUrl="https://feeds.buzzsprout.com/1874302.rss"/>
+			<outline text="Absolute AppSec" title="Absolute AppSec" type="rss" version="RSS" htmlUrl="https://absoluteappsec.com" xmlUrl="https://absoluteappsec.com/rss.xml"/>
+			<outline text="AWS Morning Brief" title="AWS Morning Brief" type="rss" version="RSS" htmlUrl="https://www.lastweekinaws.com" xmlUrl="https://feeds.transistor.fm/aws-morning-brief"/>
+			<outline text="The Azure Security Podcast" title="The Azure Security Podcast" type="rss" version="RSS" htmlUrl="https://rss.com/podcasts/azsecpodcast" xmlUrl="https://media.rss.com/azsecpodcast/feed.xml"/>
+			<outline text="Black Hills Information Security" title="Black Hills Information Security" type="rss" version="RSS" htmlUrl="https://www.blackhillsinfosec.com/" xmlUrl="https://www.blackhillsinfosec.com/feed/podcast/"/>
+			<outline text="Blueprint with John Hubbard" title="Blueprint with John Hubbard" type="rss" version="RSS" htmlUrl="https://blueprint.buzzsprout.com" xmlUrl="https://feeds.buzzsprout.com/1142720.rss"/>
+			<outline text="Blue Security" title="Blue Security" type="rss" version="RSS" htmlUrl="http://bluesecuritypod.com" xmlUrl="https://anchor.fm/s/37babf1c/podcast/rss"/>
+			<outline text="Breaking Into Cybersecurity" title="Breaking Into Cybersecurity" type="rss" version="RSS" htmlUrl="https://www.cyberhubpodcast.com/breakingintocybersecurity" xmlUrl="https://anchor.fm/s/14d32f34/podcast/rss"/>
+			<outline text="The Business of Security" title="The Business of Security" type="rss" version="RSS" htmlUrl="http://business-of-security.com" xmlUrl="https://feeds.buzzsprout.com/154688.rss"/>
+			<outline text="Brakeing Down Security Podcast" title="Brakeing Down Security Podcast" type="rss" version="RSS" htmlUrl="http://www.brakeingsecurity.com" xmlUrl="https://brakeingsecurity.com/rss"/>
+			<outline text="Cyber Security Headlines" title="Cyber Security Headlines" type="rss" version="RSS" htmlUrl="http://cisoseries.com/" xmlUrl="https://cisoseries.libsyn.com/rss"/>
+			<outline text="CISO Tradecraft" title="CISO Tradecraft" type="rss" version="RSS" htmlUrl="https://cisotradecraft.podbean.com" xmlUrl="https://feed.podbean.com/cisotradecraft/feed.xml"/>
+			<outline text="Cloud Security Podcast" title="Cloud Security Podcast" type="rss" version="RSS" htmlUrl="https://cloudsecuritypodcast.tv/" xmlUrl="https://cloudsecuritypodcast.tv/feed/"/>
+			<outline text="Crypto-Gram Security Podcast" title="Crypto-Gram Security Podcast" type="rss" version="RSS" htmlUrl="http://crypto-gram.libsyn.com" xmlUrl="https://feeds.libsyn.com/19572/rss"/>
+			<outline text="Cybercrime Magazine Podcast" title="Cybercrime Magazine Podcast" type="rss" version="RSS" htmlUrl="http://www.cybersecurityventures.com" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:286242900/sounds.rss"/>
+			<outline text="The Cyber Pro Podcast" title="The Cyber Pro Podcast" type="rss" version="RSS" htmlUrl="https://cyberpropodcast.podbean.com" xmlUrl="https://feed.podbean.com/cyberpropodcast/feed.xml"/>
+			<outline text="Immersive Labs" title="Immersive Labs" type="rss" version="RSS" htmlUrl="https://www.immersivelabs.com" xmlUrl="https://www.immersivelabs.com/feed/"/>
+			<outline text="CS2AI Control System Cyber Security Association International Podcast" title="CS2AI Control System Cyber Security Association International: (CS)²AI" type="rss" version="RSS" htmlUrl="https://feeds.captivate.fm/cs2ai/" xmlUrl="https://feeds.captivate.fm/cs2ai/"/>
+			<outline text="Cyber Risk Management Podcast" title="Cyber Risk Management Podcast" type="rss" version="RSS" htmlUrl="https://pod.co/cyber-risk-management-podcast-2" xmlUrl="https://feed.pod.co/cyber-risk-management-podcast-2"/>
+			<outline text="Cyber Security Inside" title="Cyber Security Inside" type="rss" version="RSS" htmlUrl="https://www.intel.com/content/www/us/en/security/cyber-security-inside.html" xmlUrl="https://feeds.libsyn.com/288896/rss"/>
+			<outline text="Cyber Security Sauna" title="Cyber Security Sauna" type="rss" version="RSS" htmlUrl="https://www.withsecure.com/en/whats-new/podcasts" xmlUrl="https://cybersecuritysauna.libsyn.com/rss"/>
+			<outline text="SecurPod" title="SecurPod" type="rss" version="RSS" htmlUrl="http://securpod.libsyn.com/website" xmlUrl="https://securpod.libsyn.com/rss"/>
+			<outline text="Cyber Security and More with Bob G" title="Cyber Security and More with Bob G" type="rss" version="RSS" htmlUrl="http://bob3160.mystrikingly.com/" xmlUrl="https://anchor.fm/s/1eff9ad8/podcast/rss"/>
+			<outline text="Lawfare - Hard National Security Choices" title="Lawfare - Hard National Security Choices" type="rss" version="RSS" htmlUrl="https://www.lawfareblog.com/recent/rdf" xmlUrl="https://www.lawfareblog.com/feed"/>
+			<outline text="CyberWire Daily" title="CyberWire Daily" type="rss" version="RSS" htmlUrl="https://thecyberwire.com/podcasts/daily-podcast" xmlUrl="https://feeds.megaphone.fm/cyberwire-daily-podcast"/>
+			<outline text="Cyber Work" title="Cyber Work" type="rss" version="RSS" htmlUrl="https://www.infosecinstitute.com/podcast/" xmlUrl="https://feeds.buzzsprout.com/840682.rss"/>
+			<outline text="SANS Internet Storm Center, InfoCON: green" title="SANS Internet Storm Center, InfoCON: green" type="rss" version="RSS" htmlUrl="https://isc.sans.edu/podcast.html#stormcast" xmlUrl="https://isc.sans.edu/dailypodcast.xml"/>
+			<outline text="Darknet Diaries" title="Darknet Diaries" type="rss" version="RSS" htmlUrl="https://darknetdiaries.com/" xmlUrl="https://feeds.megaphone.fm/darknetdiaries"/>
+			<outline text="DataBreachToday.com  RSS Syndication" title="DataBreachToday.com  RSS Syndication" type="rss" version="RSS" htmlUrl="https://www.databreachtoday.com/rssFeeds.php?type=main" xmlUrl="https://www.databreachtoday.com/rss-feeds"/>
+			<outline text="Data Privacy Detective" title="Data Privacy Detective" type="rss" version="RSS" htmlUrl="https://frostbrowntodd.com/industry-areas/technology/privacy-data-security/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:259842586/sounds.rss"/>
+			<outline text="Data Privacy Pod" title="Data Privacy Pod" type="rss" version="RSS" htmlUrl="https://dataprivacypod.com" xmlUrl="https://dataprivacypod.com/feed/"/>
+			<outline text="DAY[0]" title="DAY[0]" type="rss" version="RSS" htmlUrl="https://dayzerosec.com/" xmlUrl="https://dayzerosec.com/feed.xml"/>
+			<outline text="Debugger" title="Debugger" type="rss" version="RSS" htmlUrl="https://bobsullivan.net" xmlUrl="https://anchor.fm/s/1fca0e30/podcast/rss"/>
+			<outline text="Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec" title="Defensive Security Podcast - Malware, Hacking, Cyber Security &amp; Infosec" type="rss" version="RSS" htmlUrl="https://defensivesecurity.org" xmlUrl="https://defensivesecurity.org/feed/podcast"/>
+			<outline text="Podcast – Digital Forensic Survival Podcast" title="Podcast – Digital Forensic Survival Podcast" type="rss" version="RSS" htmlUrl="https://digitalforensicsurvivalpodcast.com" xmlUrl="https://digitalforensicsurvivalpodcast.com/category/podcast/feed/"/>
+			<outline text="Down the Security Rabbithole Podcast" title="Down the Security Rabbithole Podcast" type="rss" version="RSS" htmlUrl="https://blogwh1t3rabbit.medium.com" xmlUrl="http://podcast.wh1t3rabbit.net/rss"/>
+			<outline text="Easy Prey" title="Easy Prey" type="rss" version="RSS" htmlUrl="https://www.easyprey.com" xmlUrl="https://easyprey.libsyn.com/rss"/>
+			<outline text="RSS" title="RSS" type="rss" version="RSS" htmlUrl="https://www.eset.com/us/" xmlUrl="https://www.eset.com/us/rss/type/podcast/rss.xml"/>
+			<outline text="GDPR Now!" title="GDPR Now!" type="rss" version="RSS" htmlUrl="https://gdprnow.fireside.fm" xmlUrl="https://feeds.fireside.fm/gdprnow/rss"/>
+			<outline text="The Great Security Debate" title="The Great Security Debate" type="rss" version="RSS" htmlUrl="https://www.greatsecuritydebate.net" xmlUrl="https://feeds.fireside.fm/debate/rss"/>
+			<outline text="The Hacker Factory" title="The Hacker Factory" type="rss" version="RSS" htmlUrl="https://thehackerfactory.simplecast.com" xmlUrl="https://feeds.simplecast.com/vRu9TC9N"/>
+			<outline text="The Hacker Mind" title="The Hacker Mind" type="rss" version="RSS" htmlUrl="https://www.thehackermind.com/" xmlUrl="https://feed.podbean.com/thehackermind/feed.xml"/>
+			<outline text="Hacking Humans" title="Hacking Humans" type="rss" version="RSS" htmlUrl="https://thecyberwire.com/podcasts/hacking-humans" xmlUrl="https://feeds.megaphone.fm/hacking-humans"/>
+			<outline text="Human Factor Security" title="Human Factor Security" type="rss" version="RSS" htmlUrl="http://jennyradcliffe.com/category/the-human-factor/" xmlUrl="https://hfactor.libsyn.com/rss"/>
+			<outline text="Identity at the Center" title="Identity at the Center" type="rss" version="RSS" htmlUrl="https://idacpodcast.com" xmlUrl="https://anchor.fm/s/c5fefcc/podcast/rss"/>
+			<outline text="Identity, Unlocked." title="Identity, Unlocked." type="rss" version="RSS" htmlUrl="https://identityunlocked.auth0.com/public/49/Identity%2C-Unlocked.--bed7fada" xmlUrl="https://feeds.casted.us/49/Identity%2C-Unlocked.--bed7fada/feed"/>
+			<outline text="Infosec Prep Podcast" title="Infosec Prep Podcast" type="rss" version="RSS" htmlUrl="https://anchor.fm/infosecprep" xmlUrl="https://anchor.fm/s/132e8df4/podcast/rss"/>
+			<outline text="Insider Threat: The #misec Podcast" title="Insider Threat: The #misec Podcast" type="rss" version="RSS" htmlUrl="https://podcast.insiderthreatpodcast.com" xmlUrl="https://podcast.insiderthreatpodcast.com/rss"/>
+			<outline text="Layer 8 Conference" title="Layer 8 Conference" type="rss" version="RSS" htmlUrl="https://layer8conference.com" xmlUrl="https://layer8conference.com/feed/"/>
+			<outline text="ISACA Podcast" title="ISACA Podcast" type="rss" version="RSS" htmlUrl="https://isacapodcast.podbean.com" xmlUrl="https://feed.podbean.com/isacapodcast/feed.xml"/>
+			<outline text="Lock and Code" title="Lock and Code" type="rss" version="RSS" htmlUrl="https://lockandcode.podbean.com" xmlUrl="https://feed.podbean.com/lockandcode/feed.xml"/>
+			<outline text="Malwarebytes Labs" title="Malwarebytes Labs" type="rss" version="RSS" htmlUrl="https://www.malwarebytes.com" xmlUrl="https://www.malwarebytes.com/blog/feed/index.xml"/>
+			<outline text="Malicious Life" title="Malicious Life" type="rss" version="RSS" htmlUrl="https://malicious.life" xmlUrl="https://malicious.life/feed/podcast/"/>
+			<outline text="Naked Security" title="Naked Security" type="rss" version="RSS" htmlUrl="https://nakedsecurity.sophos.com" xmlUrl="https://nakedsecurity.sophos.com/feed/"/>
+			<outline text="The National Security Law Podcast" title="The National Security Law Podcast" type="rss" version="RSS" htmlUrl="https://www.nationalsecuritylawpodcast.com" xmlUrl="https://www.nationalsecuritylawpodcast.com/feed/"/>
+			<outline text="NoLimitSecu" title="NoLimitSecu" type="rss" version="RSS" htmlUrl="https://www.nolimitsecu.fr" xmlUrl="https://www.nolimitsecu.fr/feed/"/>
+			<outline text="NoLimitSecu" title="NoLimitSecu" type="rss" version="RSS" htmlUrl="https://www.nolimitsecu.fr" xmlUrl="https://www.nolimitsecu.fr/feed/podcast/"/>
+			<outline text="Open Source Security Podcast" title="Open Source Security Podcast" type="rss" version="RSS" htmlUrl="http://opensourcesecuritypodcast.com" xmlUrl="https://opensourcesecuritypodcast.libsyn.com/rss"/>
+			<outline text="The Other Side Of The Firewall" title="The Other Side Of The Firewall" type="rss" version="RSS" htmlUrl="https://anchor.fm/s/4021f738/podcast/www.theothersideofthefirewall.com" xmlUrl="https://anchor.fm/s/4021f738/podcast/rss"/>
+			<outline text="IAPP Privacy Advisor Podcast" title="IAPP Privacy Advisor Podcast" type="rss" version="RSS" htmlUrl="https://iapp.org/news/privacy-advisor-podcast/" xmlUrl="https://iapp.org/rss/privacy-advisor-podcast/"/>
+			<outline text="IntelTechniques Blog" title="IntelTechniques Blog" type="rss" version="RSS" htmlUrl="https://inteltechniques.com/blog" xmlUrl="https://inteltechniques.com/blog/feed/"/>
+			<outline text="Random but Memorable" title="Random but Memorable" type="rss" version="RSS" htmlUrl="https://1password.com" xmlUrl="https://feeds.simplecast.com/eEZHk2aL"/>
+			<outline text="Rational Security" title="Rational Security" type="rss" version="RSS" htmlUrl="https://www.lawfareblog.com/taxonomy/term/5937/all" xmlUrl="https://www.lawfareblog.com/taxonomy/term/5937/all/feed"/>
+			<outline text="The Record by Recorded Future" title="The Record by Recorded Future" type="rss" version="RSS" htmlUrl="https://therecord.media" xmlUrl="https://therecord.media/feed/"/>
+			<outline text="Redefining CyberSecurity" title="Redefining CyberSecurity" type="rss" version="RSS" htmlUrl="https://redefining-cybersecurity.simplecast.com" xmlUrl="https://feeds.simplecast.com/GzAtTpW2"/>
+			<outline text="Risky Business" title="Risky Business" type="rss" version="RSS" htmlUrl="https://risky.biz/" xmlUrl="https://risky.biz/rss.xml"/>
+			<outline text="SECTION 9 Cyber Security" title="SECTION 9 Cyber Security" type="rss" version="RSS" htmlUrl="https://section9.us/podcast/" xmlUrl="https://section9.us/podcast?format=rss"/>
+			<outline text="SecTools Podcast Series" title="SecTools Podcast Series" type="rss" version="RSS" htmlUrl="https://www.spreaker.com/show/sectools-podcast-series" xmlUrl="https://www.spreaker.com/show/3566378/episodes/feed"/>
+			<outline text="Hacker Talk" title="Hacker Talk" type="rss" version="RSS" htmlUrl="https://blog.firosolutions.com" xmlUrl="https://anchor.fm/s/7984c230/podcast/rss"/>
+			<outline text="Security In Five" title="Security In Five" type="rss" version="RSS" htmlUrl="https://securityinfive.com" xmlUrl="https://securityinfive.com/feed/"/>
+			<outline text="The Security Ledger Podcast" title="The Security Ledger Podcast" type="rss" version="RSS" htmlUrl="https://securityledger.com/category/podcasts/" xmlUrl="https://securityledger.com/category/podcasts/feed/"/>
+			<outline text="Security Now (Audio)" title="Security Now (Audio)" type="rss" version="RSS" htmlUrl="https://twit.tv/shows/security-now" xmlUrl="https://feeds.twit.tv/sn.xml"/>
+			<outline text="Security Stories" title="Security Stories" type="rss" version="RSS" htmlUrl="https://www.cisco.com/go/securitystories" xmlUrl="https://feeds.buzzsprout.com/926089.rss"/>
+			<outline text="Security Unfiltered" title="Security Unfiltered" type="rss" version="RSS" htmlUrl="https://www.securityunfiltered.com" xmlUrl="https://feeds.buzzsprout.com/1656988.rss"/>
+			<outline text="Secure Ventures with Kyle McNulty" title="Secure Ventures with Kyle McNulty" type="rss" version="RSS" htmlUrl="https://secureventures.io" xmlUrl="https://anchor.fm/s/232586cc/podcast/rss"/>
+			<outline text="Security Voices" title="Security Voices" type="rss" version="RSS" htmlUrl="https://www.securityvoices.org" xmlUrl="https://www.spreaker.com/show/3277474/episodes/feed"/>
+			<outline text="Paul's Security Weekly" title="Paul's Security Weekly" type="rss" version="RSS" htmlUrl="http://securityweekly.com/" xmlUrl="https://pauldotcom.libsyn.com/"/>
+			<outline text="securityzed" title="securityzed" type="rss" version="RSS" htmlUrl="https://www.securityzed.com/" xmlUrl="https://www.securityzed.com/?format=rss"/>
+			<outline text="Podcasts Archives – TrustArc The Leader in Privacy Management Software" title="Podcasts Archives – TrustArc The Leader in Privacy Management Software" type="rss" version="RSS" htmlUrl="https://trustarc.com/resource_types/privacy-podcasts/" xmlUrl="https://trustarc.com/resource_types/privacy-podcasts/feed/"/>
+			<outline text="The Shared Security Show" title="The Shared Security Show" type="rss" version="RSS" htmlUrl="https://sharedsecurity.net/" xmlUrl="https://sharedsecurity.net/feed/podcast/"/>
+			<outline text="Smashing Security" title="Smashing Security" type="rss" version="RSS" htmlUrl="https://www.smashingsecurity.com" xmlUrl="https://feeds.captivate.fm/smashing-security/"/>
+			<outline text="Security Through Education" title="Security Through Education" type="rss" version="RSS" htmlUrl="https://www.social-engineer.org/" xmlUrl="https://www.social-engineer.org/feed/"/>
+			<outline text="Threatpost" title="Threatpost" type="rss" version="RSS" htmlUrl="https://threatpost.com" xmlUrl="https://threatpost.com/feed/"/>
+			<outline text="To The Point - Cybersecurity" title="To The Point - Cybersecurity" type="rss" version="RSS" htmlUrl="https://forcepoint.com/govpodcast" xmlUrl="https://cybersecuritytothepointpodcast.libsyn.com/rss"/>
+			<outline text="FRSecure" title="FRSecure" type="rss" version="RSS" htmlUrl="https://frsecure.com" xmlUrl="https://frsecure.com/feed/"/>
+			<outline text="Daniel Miessler" title="Daniel Miessler" type="rss" version="RSS" htmlUrl="https://danielmiessler.com" xmlUrl="https://danielmiessler.com/feed/"/>
+			<outline text="We Hack Purple" title="We Hack Purple" type="rss" version="RSS" htmlUrl="https://wehackpurple.com" xmlUrl="https://wehackpurple.com/feed/"/>
+		</outline>
+	</body>
+</opml>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<opml version="1.0">
+    <head>
+        <title>Greg subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Blogs" title="Blogs">
+            <outline type="rss" text="Dewey B Strategic" title="Dewey B Strategic" xmlUrl="http://feeds.feedburner.com/DeweyBStrategic" htmlUrl="http://deweybstrategic.blogspot.com/"/>
+            <outline type="rss" text="Law Library Technology » Using WestLaw Next with your e-book reader" title="Law Library Technology » Using WestLaw Next with your e-book reader" xmlUrl="http://lawlibrarytech.wordpress.com/feed/" htmlUrl="http://lawlibrarytech.wordpress.com"/>
+            <outline type="rss" text="Constant Content" title="Constant Content" xmlUrl="http://www.constantcontentblog.com/index.xml" htmlUrl="http://www.constantcontentblog.com/"/>
+            <outline type="rss" text="Greedy Associates" title="Greedy Associates" xmlUrl="http://feeds.findlaw.com/GreedyAssociates" htmlUrl="http://blogs.findlaw.com/greedy_associates/"/>
+            <outline type="rss" text="Monroe Infoblog" title="Monroe Infoblog" xmlUrl="http://monroeinfoblog.typepad.com/my_weblog/rss.xml" htmlUrl="http://monroeinfoblog.typepad.com/my_weblog/"/>
+            <outline type="rss" text="Legal IT News" title="Legal IT News" xmlUrl="http://www.legalitprofessionals.com/index.php/component/bca-rss-syndicator/?feed_id=1"/>
+            <outline type="rss" text="Freedom to Tinker blogs" title="Freedom to Tinker blogs" xmlUrl="http://www.freedom-to-tinker.com/blog/feed" htmlUrl="https://freedom-to-tinker.com"/>
+            <outline type="rss" text="Information Technology" title="Information Technology" xmlUrl="http://feeds.feedburner.com/mycorporateresource/InformationTechnology"/>
+            <outline type="rss" text="On the Record" title="On the Record" xmlUrl="http://mddailyrecord.com/ontherecord/feed/" htmlUrl="http://thedailyrecord.com/ontherecord"/>
+            <outline type="rss" text="Jeff Jonas" title="Jeff Jonas" xmlUrl="http://jeffjonas.typepad.com/jeff_jonas/rss.xml" htmlUrl="http://jeffjonas.typepad.com/jeff_jonas/"/>
+            <outline type="rss" text="clarinette's blog" title="clarinette's blog" xmlUrl="http://clarinettesblog.blogspot.com/feeds/posts/default" htmlUrl="http://clarinettesblog.blogspot.com/"/>
+            <outline type="rss" text="Anecdote" title="Anecdote" xmlUrl="http://feeds2.feedburner.com/Anecdote" htmlUrl="http://www.anecdote.com.au/"/>
+            <outline type="rss" text="Walking Paper" title="Walking Paper" xmlUrl="http://feeds.feedburner.com/walkingpaper/full" htmlUrl="http://www.walkingpaper.org"/>
+            <outline type="rss" text="Law Review" title="Law Review" xmlUrl="http://feeds.feedburner.com/businessinsider/lawreview" htmlUrl="http://www.businessinsider.com/category/law"/>
+            <outline type="rss" text="Thoughtful Legal Management" title="Thoughtful Legal Management" xmlUrl="http://thoughtfullaw.com/feed/" htmlUrl="http://thoughtfullaw.com"/>
+            <outline type="rss" text="SLA Legal Division" title="SLA Legal Division" xmlUrl="http://legal.sla.org/feed/" htmlUrl="http://legal.sla.org"/>
+            <outline type="rss" text="Reliance On Counsel" title="Reliance On Counsel" xmlUrl="http://relianceoncounsel.com/feed/" htmlUrl="http://relianceoncounsel.com"/>
+            <outline type="rss" text="O'Connor's Annotations" title="O'Connor's Annotations" xmlUrl="http://annotations.jonesmcclure.com/feed/" htmlUrl="http://annotations.jonesmcclure.com"/>
+            <outline type="rss" text="&quot;competitive Intelligence&quot; - Justia BlawgSearch.com" title="&quot;competitive Intelligence&quot; - Justia BlawgSearch.com" xmlUrl="http://blawgsearch.justia.com/search.aspx?q=%22competitive+intelligence%22&amp;l=20&amp;t=date&amp;catid=0&amp;mode=rss"/>
+            <outline type="rss" text="AALL Spectrum Blog" title="AALL Spectrum Blog" xmlUrl="http://aallspectrum.wordpress.com/feed/" htmlUrl="http://aallspectrum.wordpress.com"/>
+            <outline type="rss" text="The Intelligent Challenge" title="The Intelligent Challenge" xmlUrl="http://intelligentchallenge.com/feed/" htmlUrl="http://intelligentchallenge.com"/>
+            <outline type="rss" text="Other Side Group" title="Other Side Group" xmlUrl="http://feeds.feedburner.com/OtherSideGroup" htmlUrl="http://www.othersidegroup.com"/>
+            <outline type="rss" text="diphur.com RSS Feed" title="diphur.com RSS Feed" xmlUrl="http://diphur.com/rss/lawfirm/news"/>
+            <outline type="rss" text="Instapaper: Unread" title="Instapaper: Unread" xmlUrl="http://www.instapaper.com/rss/249523/cn6rZqMFPPBQWWWCICPuN5jblk" htmlUrl="http://www.instapaper.com/u"/>
+            <outline type="rss" text="Google Alerts - (&quot;law firm&quot; OR &quot;law firms&quot;) (&quot;lay off&quot; OR &quot;lay offs&quot; OR &quot;layoff&quot; OR &quot;layoffs&quot; OR &quot;laid off&quot;)(discont.)" title="Google Alerts - (&quot;law firm&quot; OR &quot;law firms&quot;) (&quot;lay off&quot; OR &quot;lay offs&quot; OR &quot;layoff&quot; OR &quot;layoffs&quot; OR &quot;laid off&quot;)(discont.)" xmlUrl="http://www.google.com/alerts/feeds/02503158573935918045/11462936166080656812"/>
+            <outline type="rss" text="Vimeo / Grefix's subscriptions" title="Vimeo / Grefix's subscriptions" xmlUrl="http://vimeo.com/grefix/subscriptions/videos/rss"/>
+            <outline type="rss" text="Indexed" title="Indexed" xmlUrl="http://thisisindexed.com/feed/" htmlUrl="http://thisisindexed.com"/>
+            <outline type="rss" text="Legal Research Plus" title="Legal Research Plus" xmlUrl="http://legalresearchplus.com/feed/" htmlUrl="http://legalresearchplus.com"/>
+            <outline type="rss" text="Out of the Jungle" title="Out of the Jungle" xmlUrl="http://feeds.feedburner.com/outofthejungle" htmlUrl="http://outofthejungle.blogspot.com/"/>
+            <outline type="rss" text="Richard C. Hsu" title="Richard C. Hsu" xmlUrl="http://hsutube.com/feed/" htmlUrl="http://hsutube.com"/>
+            <outline type="rss" text="The New Legal Normal Blog » Collections season proves who’s boss" title="The New Legal Normal Blog » Collections season proves who’s boss" xmlUrl="http://thenewlegalnormal.wordpress.com/feed/" htmlUrl="http://thenewlegalnormal.wordpress.com"/>
+            <outline type="rss" text="The Legal Watercooler" title="The Legal Watercooler" xmlUrl="http://legalwatercooler.blogspot.com/feeds/posts/default" htmlUrl="http://legalwatercooler.blogspot.com/"/>
+            <outline type="rss" text="Lasagna and chips" title="Lasagna and chips" xmlUrl="http://feeds.feedburner.com/CommunitiesOfPracticeForDevelopment" htmlUrl="http://joitskehulsebosch.blogspot.com/"/>
+            <outline type="rss" text="PinHawk Blog" title="PinHawk Blog" xmlUrl="http://www.pinhawkblog.com/feed/" htmlUrl="http://www.pinhawkblog.com"/>
+            <outline type="rss" text="In Custodia Legis" title="In Custodia Legis" xmlUrl="http://blogs.loc.gov/law/feed/" htmlUrl="http://blogs.loc.gov/law"/>
+            <outline type="rss" text="Jason Wilson" title="Jason Wilson" xmlUrl="http://feeds2.feedburner.com/jasnwilsn/PuPq" htmlUrl="http://www.jasnwilsn.com"/>
+            <outline type="rss" text="Green Chameleon" title="Green Chameleon" xmlUrl="http://www.greenchameleon.com/feeds/rss/" htmlUrl="http://www.greenchameleon.com"/>
+            <outline type="rss" text="InhouseBlog.com" title="InhouseBlog.com" xmlUrl="http://www.inhouseblog.com/feed/" htmlUrl="http://www.inhouseblog.com"/>
+            <outline type="rss" text="Michael Sampson: Currents" title="Michael Sampson: Currents" xmlUrl="http://feeds.feedburner.com/michaelsampson" htmlUrl="http://currents.michaelsampson.net/"/>
+            <outline type="rss" text="The Social Media Lawyer" title="The Social Media Lawyer" xmlUrl="http://thesocialmedialawyer.wordpress.com/feed/rss/" htmlUrl="http://thesocialmedialawyer.wordpress.com"/>
+            <outline type="rss" text="Heavy Mental" title="Heavy Mental" xmlUrl="http://ceciiil.wordpress.com/feed/" htmlUrl="http://thehypertextual.com"/>
+            <outline type="rss" text="Everything Information" title="Everything Information" xmlUrl="http://lac-group.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://lac-group.blogspot.com/"/>
+            <outline type="rss" text="danah boyd | apophenia" title="danah boyd | apophenia" xmlUrl="http://www.zephoria.org/thoughts/feed" htmlUrl="http://www.zephoria.org/thoughts"/>
+            <outline type="rss" text="(title unknown)" title="(title unknown)" xmlUrl="http://www.ballardspahr.com/Home/PageDetails/Archive/Subscribe"/>
+            <outline type="rss" text="ALM Press Room » releases" title="ALM Press Room » releases" xmlUrl="http://www.alm.com/pressroom/category/releases/?feed=rss2"/>
+            <outline type="rss" text="Answer Maven" title="Answer Maven" xmlUrl="http://answermaven.com/feed/" htmlUrl="http://answermaven.com"/>
+            <outline type="rss" text="Information Architected" title="Information Architected" xmlUrl="http://www.informationarchitected.com/feed/" htmlUrl="http://www.informationarchitected.com"/>
+            <outline type="rss" text="Law21" title="Law21" xmlUrl="http://law21.ca/feed" htmlUrl="http://www.law21.ca"/>
+            <outline type="rss" text="Social Media &amp; The Law" title="Social Media &amp; The Law" xmlUrl="http://feeds.feedburner.com/SocialMediaandLaw" htmlUrl="http://www.mycorporateresource.com/newjoomla3/"/>
+            <outline type="rss" text="the [non]billable hour by Matthew Homann" title="the [non]billable hour by Matthew Homann" xmlUrl="http://thenonbillablehour.typepad.com/nonbillable_hour/rss.xml" htmlUrl="http://www.nonbillablehour.com"/>
+            <outline type="rss" text="The Client Revolution" title="The Client Revolution" xmlUrl="http://feeds2.feedburner.com/typepad/clientrevolution" htmlUrl="http://www.clientrevolution.com/"/>
+            <outline type="rss" text="Contract Analysis and Contract Standards" title="Contract Analysis and Contract Standards" xmlUrl="http://contractanalysis.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://contractanalysis.blogspot.com/"/>
+            <outline type="rss" text="Criminal Law Library Blog" title="Criminal Law Library Blog" xmlUrl="http://www.criminallawlibraryblog.com/index.xml" htmlUrl="http://www.criminallawlibraryblog.com/"/>
+            <outline type="rss" text="AOTUS: Collector in Chief" title="AOTUS: Collector in Chief" xmlUrl="http://blogs.archives.gov/aotus/?feed=rss2" htmlUrl="http://blogs.archives.gov/aotus"/>
+            <outline type="rss" text="Future Ready 365 » Featured" title="Future Ready 365 » Featured" xmlUrl="http://futureready365.sla.org/category/featured/feed" htmlUrl="http://futureready365.sla.org"/>
+            <outline type="rss" text="Legaldivas Blog" title="Legaldivas Blog" xmlUrl="http://www.legaldivasblog.com/legaldivas/?view=rss"/>
+            <outline type="rss" text="Above and Beyond KM" title="Above and Beyond KM" xmlUrl="http://aboveandbeyondkm.com/feed" htmlUrl="http://aboveandbeyondkm.com"/>
+            <outline type="rss" text="WK News - Food, Drug, and Cosmetic Newsletters" title="WK News - Food, Drug, and Cosmetic Newsletters" xmlUrl="http://research.cch.com/RLS/Service.svc/rss/WKUS_TAL_3000/xxx?user=SwB2mQAgm2VZxbHK0IJx7sZZl%2FO5IkP9&amp;da=WKUS_TAL_3000"/>
+            <outline type="rss" text="Law Librarians of Leisure" title="Law Librarians of Leisure" xmlUrl="http://lawlibrariansofleisure.com/feed/"/>
+            <outline type="rss" text="Knoco stories" title="Knoco stories" xmlUrl="http://www.nickmilton.com/feeds/posts/default" htmlUrl="http://www.nickmilton.com/"/>
+            <outline type="rss" text="Jason the Content Librarian" title="Jason the Content Librarian" xmlUrl="http://www.jasoneiseman.com/blog/?feed=rss2" htmlUrl="http://www.jasoneiseman.com/blog"/>
+            <outline type="rss" text="Ethics Maven" title="Ethics Maven" xmlUrl="http://ethicsmaven.com/feed/" htmlUrl="http://ethicsmaven.com"/>
+            <outline type="rss" text="Henderson Valley Eggs | Blog Posts" title="Henderson Valley Eggs | Blog Posts" xmlUrl="http://feeds.feedburner.com/hve"/>
+            <outline type="rss" text="The Forrester Blog For Information &amp; Knowledge Management Professionals" title="The Forrester Blog For Information &amp; Knowledge Management Professionals" xmlUrl="http://feeds.feedburner.com/typepad/ikm"/>
+            <outline type="rss" text="IT Infrastructure" title="IT Infrastructure" xmlUrl="http://feeds.feedburner.com/forrester/inf" htmlUrl="http://blogs.forrester.com/taxonomy/term/10/all"/>
+            <outline type="rss" text="From the Stacks" title="From the Stacks" xmlUrl="http://jenniferfrazier.wordpress.com/feed/" htmlUrl="http://jenniferfrazier.wordpress.com"/>
+            <outline type="rss" text="Stories about Experience and Expertise" title="Stories about Experience and Expertise" xmlUrl="http://usingexpertise.blogspot.com/feeds/posts/default" htmlUrl="http://usingexpertise.blogspot.com/"/>
+            <outline type="rss" text="Mass. LOMAP: Law Practice Advisor" title="Mass. LOMAP: Law Practice Advisor" xmlUrl="http://feeds.feedburner.com/MassLomapLawPracticeAdvisor" htmlUrl="http://masslomap.org"/>
+            <outline type="rss" text="Wired GC" title="Wired GC" xmlUrl="http://feeds.feedburner.com/wiredgc" htmlUrl="http://www.wiredgc.com"/>
+            <outline type="rss" text="Legal Current" title="Legal Current" xmlUrl="http://legalcurrent.com/feed/" htmlUrl="http://www.legalcurrent.com"/>
+            <outline type="rss" text="AALL Spectrum Blog" title="AALL Spectrum Blog" xmlUrl="http://www.aallnet.org/RSS/Blogs/spectrum-blog" htmlUrl="http://www.aallnet.org/Blogs/spectrum-blog"/>
+            <outline type="rss" text="Tech Savvy Lawyer's Blog" title="Tech Savvy Lawyer's Blog" xmlUrl="http://techsavvylawyer.wordpress.com/feed/"/>
+            <outline type="rss" text="Leading Geeks" title="Leading Geeks" xmlUrl="http://leadinggeeks.blogspot.com/feeds/posts/default"/>
+            <outline type="rss" text="Real Lawyers Have Blogs" title="Real Lawyers Have Blogs" xmlUrl="http://kevin.lexblog.com/index.xml" htmlUrl="http://kevin.lexblog.com"/>
+            <outline type="rss" text="Law Forward" title="Law Forward" xmlUrl="http://lawforward.legalzoom.com/rss" htmlUrl="http://lawforward.legalzoom.com"/>
+            <outline type="rss" text="Strategic Legal Technology" title="Strategic Legal Technology" xmlUrl="http://www.prismlegal.com/wordpress/b2rss2.php" htmlUrl="http://prismlegal.com"/>
+            <outline type="rss" text="ILTA '09 Conference Blog" title="ILTA '09 Conference Blog" xmlUrl="http://blog.iltanet.org/feed/" htmlUrl="http://blog.iltanet.org"/>
+            <outline type="rss" text="The CRIV Blog" title="The CRIV Blog" xmlUrl="http://crivblog.com/feed/" htmlUrl="http://crivblog.com"/>
+            <outline type="rss" text="Hinesight" title="Hinesight" xmlUrl="http://www.andyhinesight.com/feed/" htmlUrl="http://www.andyhinesight.com"/>
+            <outline type="rss" text="3 Geeks and a Law Blog" title="3 Geeks and a Law Blog" xmlUrl="http://geeklawblog.blogspot.com/feeds/posts/default" htmlUrl="http://www.geeklawblog.com/"/>
+            <outline type="rss" text="Hildebrandt Blog" title="Hildebrandt Blog" xmlUrl="http://www.hildebrandt.com/blog/rss.xml"/>
+            <outline type="rss" text="Nota Bene" title="Nota Bene" xmlUrl="http://notabeneuh.blogspot.com/feeds/posts/default" htmlUrl="http://notabeneuh.blogspot.com/"/>
+            <outline type="rss" text="KnowledgeForward" title="KnowledgeForward" xmlUrl="http://feeds.feedburner.com/Knowledgeforward" htmlUrl="http://knowledgeforward.wordpress.com"/>
+            <outline type="rss" text="LibWorm Query: attorney attorneys lawyers lawyer law &quot;law library&quot; &quot;law libraries&quot; &quot;law librarian&quot; &quot;law Librarians&quot;" title="LibWorm Query: attorney attorneys lawyers lawyer law &quot;law library&quot; &quot;law libraries&quot; &quot;law librarian&quot; &quot;law Librarians&quot;" xmlUrl="http://www.libworm.com/rss/librarianfeeds/userfeeds/userssqu=attorney%20attorneys%20lawyers%20lawyer%20law%20%22law%20library%22%20%22law%20libraries%22%20%22law%20librarian%22%20%22law%20Librarians%22.xml"/>
+            <outline type="rss" text="eDiscoTECH blog entries" title="eDiscoTECH blog entries" xmlUrl="http://feeds.feedburner.com/eDiscoTECH"/>
+            <outline type="rss" text="Law Firm Competitive Intelligence Blog" title="Law Firm Competitive Intelligence Blog" xmlUrl="http://feeds.feedburner.com/ciblawg" htmlUrl="http://feeds.feedburner.com/"/>
+            <outline type="rss" text="Earley &amp; Associates blogs" title="Earley &amp; Associates blogs" xmlUrl="http://www.earley.com/blog/feed" htmlUrl="http://www.earley.com/blog"/>
+            <outline type="rss" text="Together, We Can!" title="Together, We Can!" xmlUrl="http://feeds.feedburner.com/TogetherWeCan" htmlUrl="http://lehawes.wordpress.com"/>
+            <outline type="rss" text="Andrew J. SanAgustin - DataDialysis" title="Andrew J. SanAgustin - DataDialysis" xmlUrl="http://ajsanagustin.blogspot.com/feeds/posts/default" htmlUrl="http://ajsanagustin.blogspot.com/"/>
+            <outline type="rss" text="Dr. Bonnie Cheuk" title="Dr. Bonnie Cheuk" xmlUrl="http://bonniecheuk.blogspot.com/feeds/posts/default" htmlUrl="http://bonniecheuk.blogspot.com/"/>
+            <outline type="rss" text="bwagy" title="bwagy" xmlUrl="http://blog.bwagy.com/feed/" htmlUrl="http://blog.bwagy.com"/>
+            <outline type="rss" text="Slaw" title="Slaw" xmlUrl="http://feeds.feedburner.com/slaw/IkMK"/>
+            <outline type="rss" text="practicehacker" title="practicehacker" xmlUrl="http://www.practicehacker.com/feed/" htmlUrl="http://www.practicehacker.com"/>
+            <outline type="rss" text="Adam Smith, Esq." title="Adam Smith, Esq." xmlUrl="http://www.adamsmithesq.com/feed/" htmlUrl="http://www.adamsmithesq.com"/>
+            <outline type="rss" text="ABA Journal Topics" title="ABA Journal Topics" xmlUrl="http://www.abajournal.com/topics/rss/C543" htmlUrl="http://www.abajournal.com/news/"/>
+            <outline type="rss" text="ALMResearchBlog" title="ALMResearchBlog" xmlUrl="http://almresearchonline.typepad.com/almresearchblog/rss.xml" htmlUrl="http://almresearchonline.typepad.com/almresearchblog/"/>
+            <outline type="rss" text="AmLaw Firm News" title="AmLaw Firm News" xmlUrl="http://nl.infongen.com/InfoNgen.Newsletters.NewsletterRssService/GetRss?rssId=994affa8-9cbc-42f8-aa87-e8162c054f06-rss20"/>
+            <outline type="rss" text="At The Intersection" title="At The Intersection" xmlUrl="http://pwoldow.wordpress.com/feed/" htmlUrl="http://www.pamwoldow.com"/>
+            <outline type="rss" text="Break the Scales" title="Break the Scales" xmlUrl="http://breakthescales.com/feed/" htmlUrl="http://breakthescales.com"/>
+            <outline type="rss" text="Law Librarian Blog" title="Law Librarian Blog" xmlUrl="http://feeds.feedburner.com/LawLibrarianBlog" htmlUrl="http://lawprofessors.typepad.com/law_librarian_blog/"/>
+            <outline type="rss" text="MobileAppsforLaw | Newly Released Apps" title="MobileAppsforLaw | Newly Released Apps" xmlUrl="http://www.informedlibrarian.com/MobileAppsforLaw/MobileApps.xml"/>
+            <outline type="rss" text="The Official Google Blog" title="The Official Google Blog" xmlUrl="http://googleblog.blogspot.com/atom.xml" htmlUrl="http://googleblog.blogspot.com/"/>
+            <outline type="rss" text="User Education in Law Librarianship" title="User Education in Law Librarianship" xmlUrl="http://usereducationinlawlibrarianship.blogspot.com/feeds/posts/default" htmlUrl="http://usereducationinlawlibrarianship.blogspot.com/"/>
+            <outline type="rss" text="Westlaw Insider" title="Westlaw Insider" xmlUrl="http://feeds.feedburner.com/westlawinsider/kbDT" htmlUrl="http://blog.legalsolutions.thomsonreuters.com"/>
+            </outline>
+        
+    </body>
+</opml>

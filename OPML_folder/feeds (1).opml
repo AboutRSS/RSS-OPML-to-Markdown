@@ -1,0 +1,227 @@
+<opml version="1.0">
+  <head>
+    <title>Discover .NET Feeds</title>
+  </head>
+  <body>
+    <outline text="Discover .NET Feeds" title="Discover .NET Feeds">
+        <outline type="rss" text="LINQ to Fail" title="LINQ to Fail" xmlUrl="http://feeds.feedburner.com/linqToAaronPowell" />
+        <outline type="rss" text="Aaronontheweb - .NET, Startups, Open Source, and Outer Space" title="Aaronontheweb - .NET, Startups, Open Source, and Outer Space" xmlUrl="https://aaronstannard.com/feed.xml" />
+        <outline type="rss" text="Adam Sitnik" title="Adam Sitnik" xmlUrl="http://adamsitnik.com/feed.xml" />
+        <outline type="rss" text="Adam Storr&#x27;s Blog" title="Adam Storr&#x27;s Blog" xmlUrl="https://adamstorr.azurewebsites.net/feed.rss" />
+        <outline type="rss" text="Adrian Iftode&#x27;s Blog" title="Adrian Iftode&#x27;s Blog" xmlUrl="https://csharpin.blogspot.com/feeds/posts/default" />
+        <outline type="rss" text="The mole is digging" title="The mole is digging" xmlUrl="https://alexandrnikitin.github.io/blog/feed.xml" />
+        <outline type="rss" text="Andrea Merlin DotNet Blog" title="Andrea Merlin DotNet Blog" xmlUrl="http://amerlin.keantex.com/feed/" />
+        <outline type="rss" text="Andrew Lock | .NET Escapades" title="Andrew Lock | .NET Escapades" xmlUrl="http://andrewlock.net/rss/" />
+        <outline type="rss" text="Ant&#xE3;o Almada" title="Ant&#xE3;o Almada" xmlUrl="https://medium.com/feed/@antao.almada" />
+        <outline type="rss" text="Anthony Giretti&#x27;s .NET blog" title="Anthony Giretti&#x27;s .NET blog" xmlUrl="http://anthonygiretti.com/feed/" />
+        <outline type="rss" text="Anthony Lloyd" title="Anthony Lloyd" xmlUrl="https://anthonylloyd.github.io/feed.xml" />
+        <outline type="rss" text="aspdotnetcodehelp.wordpress.com" title="aspdotnetcodehelp.wordpress.com" xmlUrl="https://aspdotnetcodehelp.wordpress.com/feed/" />
+        <outline type="rss" text="ASP.NET Hacker" title="ASP.NET Hacker" xmlUrl="http://feeds.feedburner.com/jgutsch" />
+        <outline type="rss" text="C. Augusto Proiete" title="C. Augusto Proiete" xmlUrl="https://augustoproiete.net/feed" />
+        <outline type="rss" text="Awaiting Bits" title="Awaiting Bits" xmlUrl="https://blog.zhaytam.com/index.xml" />
+        <outline type="rss" text="Ayende @ Rahien" title="Ayende @ Rahien" xmlUrl="https://feeds.feedburner.com/AyendeRahien" />
+        <outline type="rss" text="banditoth.net - Andr&#xE1;s T&#xF3;th&#x27;s professional blog" title="banditoth.net - Andr&#xE1;s T&#xF3;th&#x27;s professional blog" xmlUrl="https://banditoth.net/feed/" />
+        <outline type="rss" text="Ben Bowen&#x27;s Blog" title="Ben Bowen&#x27;s Blog" xmlUrl="http://benbowen.blog/rss.xml" />
+        <outline type="rss" text="Ben Foster" title="Ben Foster" xmlUrl="http://benfoster.io/blog/feed" />
+        <outline type="rss" text="The Blinking Caret" title="The Blinking Caret" xmlUrl="https://www.blinkingcaret.com/feed/" />
+        <outline type="rss" text="Bruno Garcia" title="Bruno Garcia" xmlUrl="https://feeds.feedburner.com/BrunoGarcia" />
+        <outline type="rss" text="Building Steps" title="Building Steps" xmlUrl="https://buildingsteps.wordpress.com/feed/" />
+        <outline type="rss" text="Resolve all using mine" title="Resolve all using mine" xmlUrl="https://cezarypiatek.github.io/index.xml" />
+        <outline type="rss" text="Christian Nagel" title="Christian Nagel" xmlUrl="https://csharp.christiannagel.com/feed/" />
+        <outline type="rss" text="Christoph Weigert" title="Christoph Weigert" xmlUrl="https://christophweigert.com/rss/" />
+        <outline type="rss" text="cmatskas" title="cmatskas" xmlUrl="http://cmatskas.com/rss/" />
+        <outline type="rss" text="Code Maze" title="Code Maze" xmlUrl="https://code-maze.com/feed/" />
+        <outline type="rss" text="Code4IT" title="Code4IT" xmlUrl="https://www.code4it.dev/rss.xml" />
+        <outline type="rss" text="CodeArt" title="CodeArt" xmlUrl="https://www.codeart.dk/blog/rss/" />
+        <outline type="rss" text="CodeJourney - join our coding journey today!" title="CodeJourney - join our coding journey today!" xmlUrl="https://www.codejourney.net/feed/" />
+        <outline type="rss" text="CodeOpinion" title="CodeOpinion" xmlUrl="http://codeopinion.com/feed/" />
+        <outline type="rss" text="Code With Mukesh" title="Code With Mukesh" xmlUrl="https://codewithmukesh.com/feed/" />
+        <outline type="rss" text="CodingBlast" title="CodingBlast" xmlUrl="https://codingblast.com/feed/" />
+        <outline type="rss" text="Coding Militia" title="Coding Militia" xmlUrl="https://blog.codingmilitia.com/feed.xml" />
+        <outline type="rss" text="Coding Sonata" title="Coding Sonata" xmlUrl="http://codingsonata.com/feed/" />
+        <outline type="rss" text="Conduct of Code" title="Conduct of Code" xmlUrl="https://conductofcode.io/feed.xml" />
+        <outline type="rss" text="Cool Coders" title="Cool Coders" xmlUrl="https://doumer.me/feed/" />
+        <outline type="rss" text="Criteo Labs" title="Criteo Labs" xmlUrl="http://labs.criteo.com/category/code/feed/" />
+        <outline type="rss" text="C# tutorial.hu" title="C# tutorial.hu" xmlUrl="https://csharptutorial.hu/feed/" />
+        <outline type="rss" text="Software Engineering (Damien Bowden blog)" title="Software Engineering (Damien Bowden blog)" xmlUrl="https://damienbod.com/feed/" />
+        <outline type="rss" text="Dangl.Blog();" title="Dangl.Blog();" xmlUrl="https://blog.dangl.me/rss" />
+        <outline type="rss" text="Daniel Crabtree" title="Daniel Crabtree" xmlUrl="https://www.danielcrabtree.com/blog/feed" />
+        <outline type="rss" text="Daniel Donbavand" title="Daniel Donbavand" xmlUrl="https://danieldonbavand.com/rss/" />
+        <outline type="rss" text="Danny Cabrera" title="Danny Cabrera" xmlUrl="https://medium.com/feed/@dannyc" />
+        <outline type="rss" text="App Developer Links" title="App Developer Links" xmlUrl="https://links.danrigby.com/feed.xml" />
+        <outline type="rss" text="Dan Rigby" title="Dan Rigby" xmlUrl="https://www.danrigby.com/feed.xml" />
+        <outline type="rss" text="Danny Tuppeny" title="Danny Tuppeny" xmlUrl="http://feeds.dantup.com/DanTup" />
+        <outline type="rss" text="Dave Brock" title="Dave Brock" xmlUrl="http://feeds.feedburner.com/dave-brock" />
+        <outline type="rss" text="daveaglick.com" title="daveaglick.com" xmlUrl="https://daveaglick.com/feed.rss" />
+        <outline type="rss" text="Development With A Dot" title="Development With A Dot" xmlUrl="https://weblogs.asp.net/ricardoperes/rss" />
+        <outline type="rss" text="www.devlead.se" title="www.devlead.se" xmlUrl="https://www.devlead.se/feed.rss" />
+        <outline type="rss" text="Daniel Genezini | It works on my machine" title="Daniel Genezini | It works on my machine" xmlUrl="https://blog.genezini.com/index.xml" />
+        <outline type="rss" text="Dixin&#x27;s Blog" title="Dixin&#x27;s Blog" xmlUrl="https://weblogs.asp.net/dixin/rss?containerid=12" />
+        <outline type="rss" text="docs.microsoft.com Team Blog" title="docs.microsoft.com Team Blog" xmlUrl="https://docs.microsoft.com/en-us/teamblog/feed.xml" />
+        <outline type="rss" text="dotnetthoughts" title="dotnetthoughts" xmlUrl="https://feeds.feedburner.com/dotnetthoughts" />
+        <outline type="rss" text="DotNet Tortona" title="DotNet Tortona" xmlUrl="http://dotnettortona.net/feed/" />
+        <outline type="rss" text="Dusted Codes" title="Dusted Codes" xmlUrl="https://dusted.codes/feed/rss" />
+        <outline type="rss" text="Eric L. Anderson" title="Eric L. Anderson" xmlUrl="https://elanderson.net/feed/" />
+        <outline type="rss" text="elmah.io Blog" title="elmah.io Blog" xmlUrl="https://blog.elmah.io/rss/" />
+        <outline type="rss" text="Fabulous adventures in coding" title="Fabulous adventures in coding" xmlUrl="http://ericlippert.com/feed" />
+        <outline type="rss" text="Erik Heemskerk" title="Erik Heemskerk" xmlUrl="https://www.erikheemskerk.nl/rss/" />
+        <outline type="rss" text=" Exception Not Found " title=" Exception Not Found " xmlUrl="http://www.exceptionnotfound.net/rss/" />
+        <outline type="rss" text="All things .Net and Azure" title="All things .Net and Azure" xmlUrl="https://dev.to/feed/expecho" />
+        <outline type="rss" text="ForeverF[r]ame" title="ForeverF[r]ame" xmlUrl="http://foreverframe.net/feed/" />
+        <outline type="rss" text="George Stocker" title="George Stocker" xmlUrl="http://georgestocker.com/feed/" />
+        <outline type="rss" text="Gary Ewan Park" title="Gary Ewan Park" xmlUrl="https://www.gep13.co.uk/feed.atom" />
+        <outline type="rss" text="Glavs Blog" title="Glavs Blog" xmlUrl="http://weblogs.asp.net/pglavich/rss.aspx" />
+        <outline type="rss" text="Jimmy Bogard" title="Jimmy Bogard" xmlUrl="http://feeds.feedburner.com/GrabBagOfT" />
+        <outline type="rss" text="Greg Shackles" title="Greg Shackles" xmlUrl="https://gregshackles.com/rss/" />
+        <outline type="rss" text="Scott Hanselman&#x27;s Blog" title="Scott Hanselman&#x27;s Blog" xmlUrl="http://feeds.hanselman.com/scotthanselman" />
+        <outline type="rss" text="All about .NET development blog&lt;" title="All about .NET development blog&lt;" xmlUrl="https://hendrikbulens.com/feed/" />
+        <outline type="rss" text="Bar Arnon" title="Bar Arnon" xmlUrl="http://blog.i3arnon.com/feed" />
+        <outline type="rss" text="I Love .NET" title="I Love .NET" xmlUrl="https://ilovedotnet.org/atom.xml" />
+        <outline type="rss" text="InfoQ - .NET" title="InfoQ - .NET" xmlUrl="https://www.infoq.com/feed/dotnet" />
+        <outline type="rss" text="Ingenium Software Engineering Blog" title="Ingenium Software Engineering Blog" xmlUrl="http://www.inversionofcontrol.co.uk/rss/" />
+        <outline type="rss" text="They Call Me Mister James" title="They Call Me Mister James" xmlUrl="http://jameschambers.com/atom.xml" />
+        <outline type="rss" text="Turnerj" title="Turnerj" xmlUrl="https://turnerj.com/blog/feed.xml" />
+        <outline type="rss" text="Jamil&#x27;s Coding Spot" title="Jamil&#x27;s Coding Spot" xmlUrl="https://jamilhallal.blogspot.com/feeds/posts/default?alt=rss" />
+        <outline type="rss" text="Jeremy Bytes" title="Jeremy Bytes" xmlUrl="http://jeremybytes.blogspot.com/feeds/posts/default" />
+        <outline type="rss" text="The Shade Tree Developer" title="The Shade Tree Developer" xmlUrl="http://jeremydmiller.com/feed/" />
+        <outline type="rss" text="Jeremy Lindsay" title="Jeremy Lindsay" xmlUrl="https://jeremylindsayni.wordpress.com/feed/" />
+        <outline type="rss" text="Jonathan&#x27;s Blog" title="Jonathan&#x27;s Blog" xmlUrl="https://jmezach.github.io/index.xml" />
+        <outline type="rss" text="Joao Grassi&#x27;s Blog" title="Joao Grassi&#x27;s Blog" xmlUrl="https://blog.joaograssi.com/rss" />
+        <outline type="rss" text="Tell don&#x27;t ask" title="Tell don&#x27;t ask" xmlUrl="http://feeds.feedburner.com/TellDontAsk" />
+        <outline type="rss" text="Jon Skeet&#x27;s coding blog" title="Jon Skeet&#x27;s coding blog" xmlUrl="http://feeds.feedburner.com/JonSkeetCodingBlog" />
+        <outline type="rss" text="Joonas W&#x27;s Blog" title="Joonas W&#x27;s Blog" xmlUrl="https://joonasw.net/rss" />
+        <outline type="rss" text="Joseph Woodward&#x27;s Blog" title="Joseph Woodward&#x27;s Blog" xmlUrl="http://josephwoodward.co.uk/rss/" />
+        <outline type="rss" text="F# Reflections" title="F# Reflections" xmlUrl="http://kcieslak.io/feed.xml" />
+        <outline type="rss" text="Code with Shadman" title="Code with Shadman" xmlUrl="https://codewithshadman.com/feed.xml" />
+        <outline type="rss" text="One of the Tech Head Brothers" title="One of the Tech Head Brothers" xmlUrl="http://feeds.feedburner.com/laurentkempe" />
+        <outline type="rss" text="Rapid Application Development" title="Rapid Application Development" xmlUrl="http://www.leerichardson.com/feeds/posts/default" />
+        <outline type="rss" text="Li Chen&#x27;s Blog" title="Li Chen&#x27;s Blog" xmlUrl="http://feeds.feedburner.com/lichen" />
+        <outline type="rss" text="Open Source Projects" title="Open Source Projects" xmlUrl="https://www.loresoft.com/feed.xml" />
+        <outline type="rss" text="Luk&#xE1;&#x161; L&#xE1;nsk&#xFD; - Technical blog" title="Luk&#xE1;&#x161; L&#xE1;nsk&#xFD; - Technical blog" xmlUrl="https://programming.lansky.name/feed.xml" />
+        <outline type="rss" text="lukencode" title="lukencode" xmlUrl="http://lukencode.com/atom.xml" />
+        <outline type="rss" text="Anders Lybecker&#x27;s Weblog!" title="Anders Lybecker&#x27;s Weblog!" xmlUrl="http://feeds.lybecker.com/AndersLybecker" />
+        <outline type="rss" text="Maarten Balliauw {blog}" title="Maarten Balliauw {blog}" xmlUrl="http://blog.maartenballiauw.be/syndication.axd" />
+        <outline type="rss" text="a little bit of programming" title="a little bit of programming" xmlUrl="https://marcinjuraszek.com/feed.xml" />
+        <outline type="rss" text="Martin Bj&#xF6;rkstr&#xF6;m" title="Martin Bj&#xF6;rkstr&#xF6;m" xmlUrl="https://martinbjorkstrom.com/feed.atom" />
+        <outline type="rss" text="Matteo&#x27;s Blog" title="Matteo&#x27;s Blog" xmlUrl="https://ml-software.ch/feed.rss" />
+        <outline type="rss" text="Performance is a Feature!" title="Performance is a Feature!" xmlUrl="http://mattwarren.github.io/atom.xml" />
+        <outline type="rss" text="Maxime Rouiller" title="Maxime Rouiller" xmlUrl="https://blog.maximerouiller.com/atom.xml" />
+        <outline type="rss" text="Maxim Zhukov" title="Maxim Zhukov" xmlUrl="https://fsou1.github.io/feed.xml" />
+        <outline type="rss" text="Meziantou&#x27;s blog" title="Meziantou&#x27;s blog" xmlUrl="https://www.meziantou.net/categories/discoverdotnet.rss" />
+        <outline type="rss" text="Michal Franc&#x27;s blog" title="Michal Franc&#x27;s blog" xmlUrl="https://mfranc.com/feed.xml" />
+        <outline type="rss" text="Mike Brind" title="Mike Brind" xmlUrl="https://www.mikesdotnetting.com/feed" />
+        <outline type="rss" text="Miroslav Popovic&#x27;s blog" title="Miroslav Popovic&#x27;s blog" xmlUrl="https://miroslavpopovic.com/feed" />
+        <outline type="rss" text="Michael James Developer" title="Michael James Developer" xmlUrl="https://blog.mjjames.co.uk/feeds/posts/default" />
+        <outline type="rss" text="Mono Project" title="Mono Project" xmlUrl="http://www.mono-project.com/atom.xml" />
+        <outline type="rss" text="James Montemagno - Live, Love, Bike and Code" title="James Montemagno - Live, Love, Bike and Code" xmlUrl="https://montemagno.com/rss/" />
+        <outline type="rss" text="The Morning Brew" title="The Morning Brew" xmlUrl="http://feeds.feedburner.com/ReflectivePerspective" />
+        <outline type="rss" text="Morning Dew by Alvin Ashcraft" title="Morning Dew by Alvin Ashcraft" xmlUrl="http://feeds2.feedburner.com/alvinashcraft" />
+        <outline type="rss" text="My Coding Place" title="My Coding Place" xmlUrl="https://mycodingplace.wordpress.com/feed/" />
+        <outline type="rss" text="My technical ramblings" title="My technical ramblings" xmlUrl="https://www.mytechramblings.com/index.xml" />
+        <outline type="rss" text="Nate McMaster" title="Nate McMaster" xmlUrl="http://www.natemcmaster.com/feed.xml" />
+        <outline type="rss" text="Neel Bhatt" title="Neel Bhatt" xmlUrl="https://neelbhatt.com/feed/" />
+        <outline type="rss" text="The blog of Tore Nestenius" title="The blog of Tore Nestenius" xmlUrl="https://nestenius.se/feed/" />
+        <outline type="rss" text="Mads Kristensen" title="Mads Kristensen" xmlUrl="http://feeds.feedburner.com/netslave" />
+        <outline type="rss" text="Nick Craver" title="Nick Craver" xmlUrl="https://nickcraver.com/blog/feed.xml" />
+        <outline type="rss" text="nietras" title="nietras" xmlUrl="https://nietras.com/feed.xml" />
+        <outline type="rss" text="The NuGet Blog" title="The NuGet Blog" xmlUrl="http://blog.nuget.org/feeds/atom.xml" />
+        <outline type="rss" text="OdeToCode by K. Scott Allen" title="OdeToCode by K. Scott Allen" xmlUrl="http://feeds.feedburner.com/OdeToCode" />
+        <outline type="rss" text="On The Drift" title="On The Drift" xmlUrl="https://onthedrift.com/index.xml" />
+        <outline type="rss" text="Travis Illig" title="Travis Illig" xmlUrl="http://feeds.feedburner.com/Paraesthesia?format=xml" />
+        <outline type="rss" text="Passion for Coding" title="Passion for Coding" xmlUrl="http://coding.abel.nu/feed/" />
+        <outline type="rss" text="Patrik Svensson" title="Patrik Svensson" xmlUrl="https://www.patriksvensson.se/feed.xml" />
+        <outline type="rss" text="Piotr Bach Blog" title="Piotr Bach Blog" xmlUrl="https://piotrbach.com/dotnet/feed/" />
+        <outline type="rss" text="Mark Downie - PoppaString" title="Mark Downie - PoppaString" xmlUrl="https://www.poppastring.com/blog/feed/rss" />
+        <outline type="rss" text="Pro Code Guide" title="Pro Code Guide" xmlUrl="https://procodeguide.com/feed/" />
+        <outline type="rss" text="Rebin" title="Rebin" xmlUrl="https://rebin.dev/index.xml" />
+        <outline type="rss" text="Muhammad Rehan Saeed" title="Muhammad Rehan Saeed" xmlUrl="https://rehansaeed.com/feed/" />
+        <outline type="rss" text="R&#xE9;mi Bourgarel&#x2019;s Blog" title="R&#xE9;mi Bourgarel&#x2019;s Blog" xmlUrl="https://remibou.github.io/feed" />
+        <outline type="rss" text="Rick Strahl&#x27;s Web Log" title="Rick Strahl&#x27;s Web Log" xmlUrl="http://feeds.feedburner.com/rickstrahl" />
+        <outline type="rss" text="rionscode" title="rionscode" xmlUrl="http://rionscode.wordpress.com/feed/" />
+        <outline type="rss" text="Rmauro.dev" title="Rmauro.dev" xmlUrl="https://rmauro.dev/rss/" />
+        <outline type="rss" text="Rockford Lhotka&#x27;s Blog" title="Rockford Lhotka&#x27;s Blog" xmlUrl="http://feeds.feedburner.com/RockfordLhotka" />
+        <outline type="rss" text="romiller.com" title="romiller.com" xmlUrl="http://romiller.com/?feed=rss2" />
+        <outline type="rss" text="Round The Code" title="Round The Code" xmlUrl="https://www.roundthecode.com/feed" />
+        <outline type="rss" text="Rubik&#x27;s Code" title="Rubik&#x27;s Code" xmlUrl="https://rubikscode.net/feed/" />
+        <outline type="rss" text="Ryan Southgate&#x27;s Blog" title="Ryan Southgate&#x27;s Blog" xmlUrl="https://www.ryansouthgate.com/rss/" />
+        <outline type="rss" text="Sailing the Sharp Sea" title="Sailing the Sharp Sea" xmlUrl="https://blog.taranissoftware.com/rss.xml" />
+        <outline type="rss" text="Scott Brady - scottbrady91.com" title="Scott Brady - scottbrady91.com" xmlUrl="https://www.scottbrady91.com/feeds/articles/rss20.xml" />
+        <outline type="rss" text="SeanKilleen.com" title="SeanKilleen.com" xmlUrl="http://SeanKilleen.com/feed.xml" />
+        <outline type="rss" text="secretGeek - dot Nuts about dot Net" title="secretGeek - dot Nuts about dot Net" xmlUrl="http://www.secretgeek.net/Rss" />
+        <outline type="rss" text="Shazwazza" title="Shazwazza" xmlUrl="http://feeds.feedburner.com/Shazwazza" />
+        <outline type="rss" text="Andr&#xE9; Snede Developer blog" title="Andr&#xE9; Snede Developer blog" xmlUrl="https://snede.net/feed" />
+        <outline type="rss" text="Stephen Cleary (the blog)" title="Stephen Cleary (the blog)" xmlUrl="http://feeds.feedburner.com/NitoPrograms" />
+        <outline type="rss" text="Steve Gordon &#x2013; Code with Steve" title="Steve Gordon &#x2013; Code with Steve" xmlUrl="https://www.stevejgordon.co.uk/feed" />
+        <outline type="rss" text="Steven Giesel" title="Steven Giesel" xmlUrl="https://steven-giesel.com/feed.rss" />
+        <outline type="rss" text="Stuart Blackler&#x27;s Tech Blog" title="Stuart Blackler&#x27;s Tech Blog" xmlUrl="https://im5tu.io/article/index.xml" />
+        <outline type="rss" text="Stuart Lang" title="Stuart Lang" xmlUrl="https://stu.dev/rss/" />
+        <outline type="rss" text="Surfing the code" title="Surfing the code" xmlUrl="https://surfingthecode.com/index.xml" />
+        <outline type="rss" text="Swimburger.net" title="Swimburger.net" xmlUrl="https://swimburger.net/atom.xml" />
+        <outline type="rss" text="Steve Woods&#x27; .NET Blog" title="Steve Woods&#x27; .NET Blog" xmlUrl="https://www.swoo.co.uk/rss.xml" />
+        <outline type="rss" text="tabs &#x21B9; over &#x2423; &#x2423; &#x2423; spaces by Ji&#x159;&#xED; {x2} &#x10C;in&#x10D;ura" title="tabs &#x21B9; over &#x2423; &#x2423; &#x2423; spaces by Ji&#x159;&#xED; {x2} &#x10C;in&#x10D;ura" xmlUrl="https://www.tabsoverspaces.com/feed.xml" />
+        <outline type="rss" text="Talking Dotnet" title="Talking Dotnet" xmlUrl="http://www.talkingdotnet.com/feed/" />
+        <outline type="rss" text="Shayne Boyer" title="Shayne Boyer" xmlUrl="https://tattoocoder.com/rss/" />
+        <outline type="rss" text="Alexandre N&#xE9;d&#xE9;lec" title="Alexandre N&#xE9;d&#xE9;lec" xmlUrl="https://www.techwatching.dev/feed.rss" />
+        <outline type="rss" text="TheCodeJunkie" title="TheCodeJunkie" xmlUrl="http://thecodejunkie.com/rss.xml" />
+        <outline type="rss" text="Blog &#x2013; The Data Farm" title="Blog &#x2013; The Data Farm" xmlUrl="http://thedatafarm.com/blog/feed/" />
+        <outline type="rss" text="Thomas Levesque&#x27;s .NET Blog" title="Thomas Levesque&#x27;s .NET Blog" xmlUrl="http://www.thomaslevesque.com/feed/" />
+        <outline type="rss" text="Timmoth" title="Timmoth" xmlUrl="https://timmoth.com/rss" />
+        <outline type="rss" text="Miguel de Icaza" title="Miguel de Icaza" xmlUrl="http://tirania.org/blog/miguel.rss2" />
+        <outline type="rss" text="try-catch-FAIL" title="try-catch-FAIL" xmlUrl="https://feeds.feedburner.com/Try-catch-fail" />
+        <outline type="rss" text="Random Thoughts" title="Random Thoughts" xmlUrl="https://vcsjones.com/feed.xml" />
+        <outline type="rss" text="VSadov&#x2019;s Blog" title="VSadov&#x2019;s Blog" xmlUrl="http://mustoverride.com/feed.xml" />
+        <outline type="rss" text="Visual Studio Magazine Blogs" title="Visual Studio Magazine Blogs" xmlUrl="https://visualstudiomagazine.com/rss-feeds/blogs.aspx" />
+        <outline type="rss" text="Visual Studio Magazine Columns" title="Visual Studio Magazine Columns" xmlUrl="https://visualstudiomagazine.com/rss-feeds/columns.aspx" />
+        <outline type="rss" text="Visual Studio Magazine Features" title="Visual Studio Magazine Features" xmlUrl="https://visualstudiomagazine.com/rss-feeds/features.aspx" />
+        <outline type="rss" text="Visual Studio Magazine News" title="Visual Studio Magazine News" xmlUrl="https://visualstudiomagazine.com/rss-feeds/news.aspx" />
+        <outline type="rss" text="Andy Butland" title="Andy Butland" xmlUrl="http://web-matters.blogspot.com/feeds/posts/default" />
+        <outline type="rss" text="C# Tutorials Blog" title="C# Tutorials Blog" xmlUrl="https://wellsb.com/csharp/feed/" />
+        <outline type="rss" text="xoofx" title="xoofx" xmlUrl="http://xoofx.com/feed.xml" />
+        <outline type="rss" text="Yet another developer blog" title="Yet another developer blog" xmlUrl="https://feeds.feedburner.com/YetAnotherDeveloperBlog" />
+        <outline type="rss" text="ZpqrtBnk" title="ZpqrtBnk" xmlUrl="https://www.zpqrtbnk.net/rss" />
+        <outline type="rss" text="The 6 Figure Developer Podcast" title="The 6 Figure Developer Podcast" xmlUrl="https://6figuredev.com/feed/" />
+        <outline type="rss" text="Andrey Akinshin&#x27;s talks" title="Andrey Akinshin&#x27;s talks" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL21xssNXOJNGUROqzSTOC8uZL4W2QZpvK" />
+        <outline type="rss" text="ASP.NET Core Full-Stack Architecture" title="ASP.NET Core Full-Stack Architecture" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL3_YUnRN3Uhj3FpO6XM_2f5fIFIKnK8RO" />
+        <outline type="rss" text="ASP.NET Core 2.0 MVC Gallery App" title="ASP.NET Core 2.0 MVC Gallery App" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL3_YUnRN3UhhJ9AhOIVVVoSX2AxhvmsNd" />
+        <outline type="rss" text="Cloud 5 Minutes" title="Cloud 5 Minutes" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCAr20GBQayL-nFPWFnUHNAA" />
+        <outline type="rss" text="CodeOpinion" title="CodeOpinion" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3RKA4vunFAfrfxiJhPEplw" />
+        <outline type="rss" text="Codewrinkles" title="Codewrinkles" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCyTPru-1gZ7-4qblcKM0TiQ" />
+        <outline type="rss" text="Coding Blocks" title="Coding Blocks" xmlUrl="https://www.codingblocks.net/podcast-feed.xml" />
+        <outline type="rss" text="Coding Militia" title="Coding Militia" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWwlh9aTz2pGn6q2__yMn_g" />
+        <outline type="rss" text=".NET Concept of the Week" title=".NET Concept of the Week" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLFSD3X7beNRCh29bqslAbaBKoy64qQVb8" />
+        <outline type="rss" text="Cross Cutting Concerns" title="Cross Cutting Concerns" xmlUrl="http://feeds.feedburner.com/CrossCuttingConcerns" />
+        <outline type="rss" text="Daniel Donbavand" title="Daniel Donbavand" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRIL34doDYqTBSyCoQINydw" />
+        <outline type="rss" text="DevApps" title="DevApps" xmlUrl="https://www.devapps.ms/video" />
+        <outline type="rss" text="DevChatter" title="DevChatter" xmlUrl="https://twitchrss.appspot.com/vod/devchatter" />
+        <outline type="rss" text="The Modern .NET Show" title="The Modern .NET Show" xmlUrl="https://thedotnetcorepodcast.libsyn.com/rss" />
+        <outline type="rss" text=".NET DC Meetup YouTube Channel" title=".NET DC Meetup YouTube Channel" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOMXeXbXW5PeYfEaWHWIDaw" />
+        <outline type="rss" text=".NET Foundation" title=".NET Foundation" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCiaZbznpWV1o-KLxj8zqR6A" />
+        <outline type="rss" text=".NET Rocks!" title=".NET Rocks!" xmlUrl="http://www.pwop.com/feed.aspx?show=dotnetrocks&amp;filetype=master" />
+        <outline type="rss" text="Eat Sleep Code Podcast" title="Eat Sleep Code Podcast" xmlUrl="http://feeds.feedburner.com/esc-podcast" />
+        <outline type="rss" text="Fritz and Friends Live Stream" title="Fritz and Friends Live Stream" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLVMqA0_8O85zHkvIMHgG74eskQTO5nfWy" />
+        <outline type="rss" text="Geoffrey Huntley" title="Geoffrey Huntley" xmlUrl="https://twitchrss.appspot.com/vod/geoffreyhuntley" />
+        <outline type="rss" text="Gone Mobile" title="Gone Mobile" xmlUrl="http://www.gonemobile.io/rss" />
+        <outline type="rss" text="Hanselminutes with Scott Hanselman" title="Hanselminutes with Scott Hanselman" xmlUrl="https://hanselminutes.com/subscribearchives" />
+        <outline type="rss" text="The Hello World Podcast" title="The Hello World Podcast" xmlUrl="http://hwpod.libsyn.com/rss" />
+        <outline type="rss" text="Herding Code" title="Herding Code" xmlUrl="http://feeds.feedburner.com/HerdingCode?format=xml" />
+        <outline type="rss" text="LiveTile" title="LiveTile" xmlUrl="https://www.livetile.fr/feed/" />
+        <outline type="rss" text="Merge Conflict - Developer Podcast" title="Merge Conflict - Developer Podcast" xmlUrl="https://www.mergeconflict.fm/rss" />
+        <outline type="rss" text="Microsoft Cloud Show" title="Microsoft Cloud Show" xmlUrl="http://feeds.microsoftcloudshow.com/microsoftcloudshowepisodes?format=xml" />
+        <outline type="rss" text="MS Dev Show" title="MS Dev Show" xmlUrl="http://msdevshow.libsyn.com/rss" />
+        <outline type="rss" text="Nick Chapsas (@Elfocrash)" title="Nick Chapsas (@Elfocrash)" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrkPsvLGln62OMZRO6K-llg" />
+        <outline type="rss" text="no dogma podcast" title="no dogma podcast" xmlUrl="http://feeds.feedburner.com/NoDogmaPodcast" />
+        <outline type="rss" text="Polymorphic Podcast" title="Polymorphic Podcast" xmlUrl="http://feeds2.feedburner.com/PolymorphicPodcast" />
+        <outline type="rss" text="RadioDotNet" title="RadioDotNet" xmlUrl="https://anchor.fm/s/f0c0ef4/podcast/rss" />
+        <outline type="rss" text="Raw Coding" title="Raw Coding" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCP_jWxjn__YXmo4iU7Low0g" />
+        <outline type="rss" text="Solo on .NET" title="Solo on .NET" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof" />
+        <outline type="rss" text="Code With Steve" title="Code With Steve" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_rMpypHGP8_J8AAo_bLCmA" />
+        <outline type="rss" text="The Azure Podcast" title="The Azure Podcast" xmlUrl="http://feeds.feedburner.com/TheAzurePodcast?format=xml" />
+        <outline type="rss" text="This Developer&#x27;s Life" title="This Developer&#x27;s Life" xmlUrl="http://feeds.feedburner.com/ThisDevelopersLife?format=xml" />
+        <outline type="rss" text="The Unhandled Exception podcast" title="The Unhandled Exception podcast" xmlUrl="https://feeds.buzzsprout.com/978640.rss" />
+        <outline type="rss" text="Visual Studio Talk Show" title="Visual Studio Talk Show" xmlUrl="http://visualstudiotalkshow.libsyn.com/rss" />
+        <outline type="rss" text="WTF#" title="WTF#" xmlUrl="https://wtfsharp.net/rss" />
+        <outline type="rss" text="The .NET MAUI Podcast" title="The .NET MAUI Podcast" xmlUrl="http://www.xamarinpodcast.com/rss" />
+        <outline type="rss" text="YapCast &#x2013; Jesse Liberty" title="YapCast &#x2013; Jesse Liberty" xmlUrl="http://feeds.feedburner.com/JesseLibertyYapcast?format=xml" />
+    </outline>
+  </body>
+</opml>

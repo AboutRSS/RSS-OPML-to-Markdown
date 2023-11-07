@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>利器社群计划blogger合集-21090430</title>
+    </head>
+    <body>
+        <outline text="利器社群计划" title="利器社群计划">
+            <outline type="rss" text="紅一葉" title="紅一葉" xmlUrl="http://feeds.feedburner.com/maple_valley" htmlUrl="https://miao.hu"/>
+            <outline type="rss" text="扶墙老师的博客 - 一个架构士的思考与实践之地" title="扶墙老师的博客 - 一个架构士的思考与实践之地" xmlUrl="https://afoo.me/feeds.xml" htmlUrl="http://afoo.me"/>
+            <outline type="rss" text="David Zhang" title="David Zhang" xmlUrl="https://crispgm.com/feed.xml" htmlUrl="https://crispgm.com/"/>
+            <outline type="rss" text="TOFUillust" title="TOFUillust" xmlUrl="https://tofuillust.blog/feed/" htmlUrl="https://tofuillust.blog"/>
+            <outline type="rss" text="read and go" title="read and go" xmlUrl="http://unee.wang/feed" htmlUrl="http://unee.wang/"/>
+            <outline type="rss" text="温智全的博客" title="温智全的博客" xmlUrl="https://wenzhiquan.github.io/atom.xml" htmlUrl="http://wenzhiquan.github.io/"/>
+            <outline type="rss" text="进击的设计宅" title="进击的设计宅" xmlUrl="https://lxlrachel.wordpress.com/feed/" htmlUrl="https://lxlrachel.wordpress.com"/>
+            <outline type="rss" text="周良粥凉" title="周良粥凉" xmlUrl="http://eric.ec/feed" htmlUrl="http://blog.eric.ec/"/>
+            <outline type="rss" text="dsdshome" title="dsdshome" xmlUrl="https://dsdshcym.github.io/rss.xml" htmlUrl="http://dsdshcym.github.io"/>
+            <outline type="rss" text="iAnna" title="iAnna" xmlUrl="http://blog.ykqmain.com/atom.xml" htmlUrl="http://blog.ykqmain.com/"/>
+            <outline type="rss" text="forecho 的独立博客" title="forecho 的独立博客" xmlUrl="http://blog.forecho.com/atom.xml" htmlUrl="https://blog.forecho.com/"/>
+            <outline type="rss" text="Randy's Blog" title="Randy's Blog" xmlUrl="https://lutaonan.com/rss.xml" htmlUrl="http://lutaonan.com/"/>
+        </outline>
+    </body>
+</opml>

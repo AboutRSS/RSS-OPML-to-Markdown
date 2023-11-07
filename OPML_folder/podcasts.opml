@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Development or Design Podcasts (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)</title>
+    <dateCreated>Mon, 30 Oct 2023 10:02:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="AppForce1 Podcast" xmlUrl="https://feeds.buzzsprout.com/1414396.rss" htmlUrl="https://appforce1.net/podcast/" description="By Jeroen Leenarts"/>
+    <outline type="rss" text="CmdSwift" xmlUrl="https://feeds.soundcloud.com/users/soundcloud%3Ausers%3A552348081/sounds.rss" htmlUrl="https://cmdswift.com/" description="By Kristof Kocsis &amp; Héctor Carrion"/>
+    <outline type="rss" text="Code Completion" xmlUrl="https://feeds.fireside.fm/codecompletion/rss" htmlUrl="https://codecompletion.io/episodes/" description="By Ben, Dimitri, Fernando, Johnny, and Spencer"/>
+    <outline type="rss" text="Compile Swift" xmlUrl="https://feeds.transistor.fm/compile-swift" htmlUrl="https://www.compileswift.com/" description="By Peter Witham"/>
+    <outline type="rss" text="Constant Variables" xmlUrl="https://constantvariables.libsyn.com/rss" htmlUrl="https://constantvariables.co" description="By Tim Bornholdt and Robert Bentley"/>
+    <outline type="rss" text="Contravariance" xmlUrl="https://contravariance.rocks/feed.rss" htmlUrl="https://contravariance.rocks/" description="By Bas Broek and Benedikt Terhechte"/>
+    <outline type="rss" text="Core Intuition" xmlUrl="https://coreint.org/index.php?feed=podcast" htmlUrl="https://coreint.org" description="By Daniel Jalkut and Manton Reece"/>
+    <outline type="rss" text="Design Details" xmlUrl="https://simplecast.fm/podcasts/1034/rss" htmlUrl="https://spec.fm/podcasts/design-details" description="By Marshall Bock and Brian Lovin"/>
+    <outline type="rss" text="Empower Apps" xmlUrl="https://feeds.transistor.fm/empowerapps-show" htmlUrl="https://www.empowerapps.show" description="By Leo Dion"/>
+    <outline type="rss" text="Fatal Error" xmlUrl="https://fatalerror.fm/rss.xml" htmlUrl="https://fatalerror.fm" description="By Soroush Khanlou and Chris Dzombak"/>
+    <outline type="rss" text="iDeveloper Podcast" xmlUrl="https://feeds.castos.com/kdjw1" htmlUrl="https://ideveloper.co/" description="By Steve Scott and John Fox"/>
+    <outline type="rss" text="Independence" xmlUrl="https://independence.fm/rss" htmlUrl="https://independence.fm/" description="By Alice Zhao, Curtis Herbert and Daniel “Jelly” Farrelly"/>
+    <outline type="rss" text="Inside iOS Dev" xmlUrl="https://feeds.simplecast.com/Hy3pZAWQ" htmlUrl="https://insideiosdev.com/" description="By Andrew Rohn and Alex Bush"/>
+    <outline type="rss" text="iOS Building Blocks" xmlUrl="https://www.spreaker.com/show/5865659/episodes/feed" htmlUrl="https://podcasters.spotify.com/pod/show/scottsmithdev" description="By Scott Smith"/>
+    <outline type="rss" text="iOS Dev Break" xmlUrl="https://iosdevbreak.libsyn.com/rss" htmlUrl="https://www.iosdevbreak.com/" description="By Evan K. Stone"/>
+    <outline type="rss" text="iPhreaks" xmlUrl="https://feeds.redcircle.com/10388ad5-937c-49ef-a8ff-fc59f8214fbe" htmlUrl="https://topenddevs.com/podcasts/iphreaks" description="By Jaim Zuber, Andrew Madsen, Erica Sadun and Gui Rambo"/>
+    <outline type="rss" text="Kodeco Podcast" xmlUrl="https://www.kodeco.com:443/feed/podcast" htmlUrl="https://www.kodeco.com/podcast/" description="By Dru Freeman and Susannah Skyer Gupta"/>
+    <outline type="rss" text="More Than Just Code" xmlUrl="https://access.acast.com/rss/646bd59620e0700011d52174/" htmlUrl="http://www.mtjc.fm" description="By Tim Mitra, Jaime Lopez Jr, Mark Rubin"/>
+    <outline type="rss" text="Race Condition" xmlUrl="https://feeds.buzzsprout.com/2077882.rss" htmlUrl="https://racecondition.software" description="By Josh Adams"/>
+    <outline type="rss" text="Release Notes Podcast" xmlUrl="https://releasenotes.tv/feed/" htmlUrl="https://releasenotes.tv/" description="By Charles Perry and Joe Cieplinski"/>
+    <outline type="rss" text="Stacktrace Podcast" xmlUrl="https://stacktracepodcast.fm/podcast?format=RSS" htmlUrl="https://stacktracepodcast.fm/" description="By John Sundell and Gui Rambo"/>
+    <outline type="rss" text="Sub Club Podcast" xmlUrl="https://feeds.transistor.fm/sub-club" htmlUrl="https://subclub.com/" description="By David Barnard, Jacob Eiting"/>
+    <outline type="rss" text="Supertop Podcast" xmlUrl="https://blog.supertop.co/rss" htmlUrl="https://blog.supertop.co/" description="By Pádraig Ó Cinnéide and Oisín Prendiville"/>
+    <outline type="rss" text="Swift by Sundell Podcast" xmlUrl="https://swiftbysundell.com/podcast/feed.rss" htmlUrl="https://www.swiftbysundell.com/podcast/" description="By John Sundell"/>
+    <outline type="rss" text="Swift over Coffee" xmlUrl="https://anchor.fm/s/572fc68/podcast/rss" htmlUrl="https://podcasters.spotify.com/pod/show/swiftovercoffee" description="By Paul Hudson and Sean Allen"/>
+    <outline type="rss" text="Swift Package Indexing" xmlUrl="https://feeds.transistor.fm/swift-package-indexing" htmlUrl="https://swiftpackageindexing.transistor.fm" description="By Dave Verwer and Sven A. Schmidt"/>
+    <outline type="rss" text="The Swift Teacher Podcast" xmlUrl="https://storage.bhs.cloud.ovh.net/v1/AUTH_624aabcecfc6462c9bf4d7a8820f9997/7212/feeds/72WBK.xml?temp_url_sig=4eb7f18c1d9487505f85d45e89d44d2d6634976d&amp;temp_url_expires=1995114530&amp;inline" htmlUrl="https://www.swiftteacher.org/podcast/" description="By Brian Foutty"/>
+    <outline type="rss" text="Swift Unwrapped" xmlUrl="https://swiftunwrapped.github.io/feed.xml" htmlUrl="https://spec.fm/podcasts/swift-unwrapped" description="By JP Simard and Jesse Squires"/>
+    <outline type="rss" text="This Week in Apps" xmlUrl="https://feed.podbean.com/thisweekinapps/feed.xml" htmlUrl="https://appfigures.com/resources/this-week-in-apps" description="By Ariel Michaeli"/>
+    <outline type="rss" text="Under the Radar" xmlUrl="https://www.relay.fm/radar/feed" htmlUrl="https://www.relay.fm/radar" description="By Marco Arment and David Smith"/>
+    <outline type="rss" text="Waiting for Review" xmlUrl="https://feeds.fireside.fm/waitingforreview/rss" htmlUrl="https://www.waitingforreview.com" description="By David Gary Wood and Daniel Jilg"/>
+  </body>
+</opml>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Design Blogs (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)</title>
+    <dateCreated>Mon, 30 Oct 2023 10:02:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Adam Wiggins’ Blog" xmlUrl="https://medium.com/feed/@hirodusk" htmlUrl="https://medium.com/@hirodusk" description="By Adam Wiggins"/>
+    <outline type="rss" text="Bjango Articles" xmlUrl="https://bjango.com/rss/articles.xml" htmlUrl="https://bjango.com/" description="By Marc Edwards"/>
+    <outline type="rss" text="Design + Swift Kits" xmlUrl="https://medium.com/feed/@tobiasrenstrm" htmlUrl="https://medium.com/@tobiasrenstrm" description="By Tobias Renström"/>
+    <outline type="rss" text="Devsign" xmlUrl="https://devsign.co/feed.xml" htmlUrl="https://devsign.co/" description="By Bryan Clark"/>
+    <outline type="rss" text="Learn UI Design" xmlUrl="https://www.learnui.design/blog/feed.xml" htmlUrl="https://www.learnui.design/blog/" description="By Erik D. Kennedy"/>
+    <outline type="rss" text="Louie Abreu’s Blog" xmlUrl="https://lmjabreu.com/feed.xml" htmlUrl="https://lmjabreu.com/posts/" description="By Louie Abreu"/>
+    <outline type="rss" text="Luke Wroblewski’s Blog" xmlUrl="http://feeds.feedburner.com/FunctioningForm" htmlUrl="https://www.lukew.com/" description="By Luke Wroblewski"/>
+    <outline type="rss" text="Mathew Sanders’ Blog" xmlUrl="http://mathewsanders.com/feed.xml" htmlUrl="http://mathewsanders.com" description="By Mathew Sanders"/>
+    <outline type="rss" text="Mats Hauge on Medium" xmlUrl="https://medium.com/feed/@matshauge" htmlUrl="https://medium.com/@matshauge" description="By Mats Hauge"/>
+    <outline type="rss" text="Max Rudberg’s Blog" xmlUrl="https://blog.maxrudberg.com/rss" htmlUrl="https://blog.maxrudberg.com/" description="By Max Rudberg"/>
+    <outline type="rss" text="Moving UI" xmlUrl="https://medium.com/feed/movingui" htmlUrl="https://medium.com/movingui" description="By Adam Bognar"/>
+    <outline type="rss" text="Nathan Gitter on Medium" xmlUrl="https://medium.com/feed/@nathangitter" htmlUrl="https://medium.com/@nathangitter" description="By Nathan Gitter"/>
+    <outline type="rss" text="Nick Babich’s Blog" xmlUrl="https://babich.biz/rss/" htmlUrl="https://babich.biz/" description="By Nick Babich"/>
+    <outline type="rss" text="Pasquale D’Silva on Medium" xmlUrl="https://medium.com/feed/@pasql" htmlUrl="https://medium.com/@pasql" description="By Pasquale D’Silva"/>
+    <outline type="rss" text="Sahand Nayebaziz's Blog" xmlUrl="https://www.sahandnayebaziz.org/rss.xml" htmlUrl="https://www.sahandnayebaziz.org" description="By Sahand Nayebaziz"/>
+    <outline type="rss" text="Scott Hurff’s Blog" xmlUrl="https://www.scotthurff.com/posts/rss/" htmlUrl="https://www.scotthurff.com/posts/" description="By Scott Hurff"/>
+    <outline type="rss" text="Sebastiaan de With’s Blog" xmlUrl="http://dewith.com/feed/" htmlUrl="http://dewith.com" description="By Sebastiaan de With"/>
+    <outline type="rss" text="Tap to Dismiss" xmlUrl="https://medium.com/feed/tap-to-dismiss" htmlUrl="https://medium.com/tap-to-dismiss" description="By Linzi Berry"/>
+    <outline type="rss" text="User Onboarding" xmlUrl="http://www.useronboard.com/rss/" htmlUrl="https://www.useronboard.com" description="By Samuel Hulick"/>
+  </body>
+</opml>

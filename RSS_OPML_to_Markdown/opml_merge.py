@@ -55,7 +55,7 @@ def merge_opml(opml_dir):
 
   opml = OPML()
   opml.head = Head(
-     title="OPML merged by github.com/aboutrss",
+     title="OPML merged by using https://github.com/AboutRSS/RSS-OPML-to-Markdown/blob/master/RSS_OPML_to_Markdown/opml_merge.py",
      docs="http://dev.opml.org/spec2.html",
      )
 
@@ -71,12 +71,18 @@ def merge_opml(opml_dir):
     for outline in parser.body.outlines:
       
       print(outline.xml_url)
-      if outline.xml_url is None: # 如果 outline 是父 outline
+      if outline.xml_url is None: # 如果 outline 是父 outline，一般有两级 outline 时，第一级 outline 是 RSS Feed 的分类信息。
+        if outline.title:
+          cate=outline.title
+        elif outline.text:
+          cate=outline.text
+        else:
+          cate is None
         for outline in outline.outlines:
            print(outline.xml_url)
-           if outline.html_url is None:
-             if outline.xml_url and outline.title:
-               url = outline.xml_url
+           if outline.html_url is None: # 有些 OPML 里只有 xmlUrl，没有 htmlUrl
+             if outline.xml_url and outline.title: # 有些 OPML 里 RSS 名称是赋值在 title 
+               url = outline.xml_url.lower()
                if url[0:7]=='http://':
                  url = url[7:]
                  if url in seen_urls:
@@ -111,9 +117,10 @@ def merge_opml(opml_dir):
                opml.body.outlines.append(Outline(
                   text=outline.title,
                   xml_url=outline.xml_url,
+                  category=cate,
                ))
-             elif outline.xml_url and outline.text:
-               url = outline.xml_url
+             elif outline.xml_url and outline.text: # 有些 OPML 里 RSS 名称是赋值在 text
+               url = outline.xml_url.lower()
                if url[0:7]=='http://':
                  url = url[7:]
                  if url in seen_urls:
@@ -147,10 +154,11 @@ def merge_opml(opml_dir):
                opml.body.outlines.append(Outline(
                   text=outline.text,
                   xml_url=outline.xml_url,
+                  category=cate,
                ))
-           else:
+           else: # OPML 里有 htmlUrl 时， 用 htmlUrl 做查重
               if outline.xml_url and outline.title:
-                url = outline.html_url
+                url = outline.html_url.lower()
                 if url[0:7]=='http://':
                   url = url[7:]
                   print(url)
@@ -175,7 +183,8 @@ def merge_opml(opml_dir):
                      continue
                   else:
                     domain = get_domain(outline.xml_url)
-                    
+                    #print (re.match(r'(.*)\.(.*\..*)', domain))
+                    #print(domain)
                     if re.match(r'(.*)\.(.*\..*)', domain):
                       domain = erase_second_domain(domain)
                       print(domain)
@@ -189,9 +198,10 @@ def merge_opml(opml_dir):
                    text=outline.title,
                    xml_url=outline.xml_url,
                    html_url=outline.html_url,
+                   category=cate,
                 ))
               elif outline.xml_url and outline.text:
-                url = outline.html_url
+                url = outline.html_url.lower()
                 if url[0:7]=='http://':
                   url = url[7:]
                   print(url)
@@ -228,6 +238,7 @@ def merge_opml(opml_dir):
                    text=outline.text,
                    xml_url=outline.xml_url,
                    html_url=outline.html_url,
+                   category=cate,
                 ))
 
   return opml.to_xml()

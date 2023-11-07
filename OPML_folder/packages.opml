@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Swift Packages (English Language) from the iOS Dev Directory (http://iosdevdirectory.com)</title>
+    <dateCreated>Mon, 30 Oct 2023 10:02:59 +0000</dateCreated>
+  </head>
+  <body>
+    <outline type="rss" text="Swift Package Index - Recently Added" xmlUrl="https://swiftpackageindex.com/packages.rss" htmlUrl="https://swiftpackageindex.com" description="By Dave Verwer and Sven A. Schmidt"/>
+    <outline type="rss" text="Swift Package Index – Recent Releases" xmlUrl="https://swiftpackageindex.com/releases.rss" htmlUrl="https://swiftpackageindex.com" description="By Dave Verwer and Sven A. Schmidt"/>
+  </body>
+</opml>

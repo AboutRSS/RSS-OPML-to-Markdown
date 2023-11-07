@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+<head>
+  <title>RSS Feeds collected by @AboutRSS</title>
+  <ownerName>AboutRSS</ownerName>
+  <ownerId>https://t.me/s/aboutrss</ownerId>
+</head>
+<body>
+  <outline text="Information">
+    <outline text="V2EX 热帖" htmlUrl="https://v2hot.pipecraft.net/" xmlUrl="https://v2hot.pipecraft.net/rss.xml" />
+    <outline text="Hottest of the Week - xLog" htmlUrl="https://xlog.app/hottest?interval=7" xmlUrl="https://xlog.app/feed/hottest?interval=7" />
+    <outline text="Hacker News RSS Feed for Busy People" htmlUrl="https://hackernewsrss.com/" xmlUrl="https://hackernewsrss.com/feed.xml" />
+    <outline text="News Minimalist daily" htmlUrl="https://newsletter.newsminimalist.com" xmlUrl="https://rss.beehiiv.com/feeds/4aF2pGVAEN.xml" />
+    <outline text="Hacker News Frontpage Digest Feed" htmlUrl="https://feeds.leonid.codes/hacker_news.html" xmlUrl="https://feeds.leonid.codes/hacker_news.rss" />
+    <outline text="BBC News - Home" htmlUrl="https://www.bbc.co.uk/news/" xmlUrl="https://github.com/jasoncartwright/bbcrss/raw/main/home_uk.xml" />
+    <outline text="WikiNewsFeed" htmlUrl="https://wikinewsfeed.org" xmlUrl="https://wikinewsfeed.org/feed/atom" />
+    <outline text="農業科技決策資訊平台 - 全球農業趨勢" htmlUrl="https://agritech-foresight.atri.org.tw/" xmlUrl="https://agritech-foresight.atri.org.tw/rss/rss/13" />
+    <outline text="地球圖輯隊" htmlUrl="https://dq.yam.com/" xmlUrl="https://dq-api.azurewebsites.net/f-system/get-rss" />
+    <outline text="Tech Productivity Archive Feed" htmlUrl="https://techproductivity.co/" xmlUrl="https://us5.campaign-archive.com/feed?u=ea228d7061e8bbfa8639666ad&amp;id=aa93122b21" />
+    <outline text="Catlike Coding Unity Tutorials" htmlUrl="https://catlikecoding.com/jasper-flick/" xmlUrl="https://catlikecoding.com/unity/tutorials/feed.atom" />
+  </outline>
+  <outline text="Company">
+    <outline text="OpenAI Status - Incident History" htmlUrl="https://status.openai.com" xmlUrl="https://status.openai.com/history.rss" />
+    <outline text="Apple Watch Challenge Spoilers" htmlUrl="https://peterwunder.de/projects/achievements/" xmlUrl="https://peterwunder.de/projects/achievements/atom.xml" />
+  </outline>
+  <outline text="Newsletter">
+    <outline text="54321周刊" htmlUrl="https://54321.versun.me" xmlUrl="https://54321.versun.me/feed" />
+  </outline>
+  <outline text="Podcast">
+    <outline text="鱼生皆假期" htmlUrl="https://hayami.typlog.io/" xmlUrl="https://hayami.typlog.io/feed/audio.xml" />
+  </outline>
+  <outline text="Blogger">
+    <outline text="Steven的个人博客" htmlUrl="https://blog.stv.lol/" xmlUrl="https://blog.stv.lol/feed/" />
+    <outline text="Doma's Weekly RSS Feed" htmlUrl="https://doma.land" xmlUrl="https://doma.land/weekly/rss.xml" />
+    <outline text="夜天之书" htmlUrl="https://tisonkun.org/" xmlUrl="https://www.tisonkun.org/atom.xml" />
+    <outline text="小猪的博客" htmlUrl="https://dreampiggy.com/" xmlUrl="https://dreampiggy.com/atom.xml" />
+  </outline>
+  <outline text="Blog Aggregator">
+    <outline text="ooh.directory blog" htmlUrl="https://ooh.directory/blog/" xmlUrl="https://ooh.directory/blog/feeds/posts.xml" />
+    <outline text="RSSBlog" htmlUrl="https://rssblog.cn" xmlUrl="https://rssblog.cn/rss/" />
+  </outline>
+</body>
+</opml>

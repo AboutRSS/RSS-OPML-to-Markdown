@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+  <title>Visual Design Inspiration</title>
+</head>
+<body>
+<outline text="Visual Design Inspiration" title="Visual Design Inspiration">
+  <outline title='Lapa Ninja - The Best Landing Page Design Inspiration' category="Visual Design" type='rss' xmlUrl='http://lapa.ninja/index.xml' />
+  <outline title='Land-book - website design inspiration gallery' category="Visual Design" type='rss' xmlUrl='http://land-book.com/feed/' />
+  <outline title='Godly' category="Visual Design" type='rss' xmlUrl='http://godly.website/feed.xml' />
+  <outline title='SaaS Landing Page' category="Visual Design" type='rss' xmlUrl='https://saaslandingpage.com/feed/' />
+  <outline title='Siteinspire' category="Visual Design" type='rss' xmlUrl='https://www.siteinspire.com/websites/feed' />
+  <outline title='SaaS Shots (@saasshots)' category="Visual Design" type='rss' xmlUrl='https://typefully.com/saasshots/rss.xml' />
+</outline>
+</body>
+</opml>
